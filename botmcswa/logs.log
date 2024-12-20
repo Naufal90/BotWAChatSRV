@@ -1,0 +1,1448 @@
+{"level":30,"time":1734578744757,"pid":8066,"hostname":"localhost","msg":"Update koneksi:"}
+{"level":30,"time":1734578744765,"pid":8066,"hostname":"localhost","msg":"Server TCP berjalan di 0.0.0.0:16267"}
+{"level":30,"time":1734578745377,"pid":8066,"hostname":"localhost","browser":["Ubuntu","Chrome","22.04.4"],"helloMsg":{"clientHello":{"ephemeral":"2pFLn8cFRhnfxNjnnMwycW1KFLwicGOA03U8Px0p8RM="}},"msg":"connected to WA"}
+{"level":30,"time":1734578745768,"pid":8066,"hostname":"localhost","node":{"username":"6289616729523","passive":true,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1017531287},"osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","device":28},"msg":"logging in..."}
+{"level":30,"time":1734578746499,"pid":8066,"hostname":"localhost","msg":"27 pre-keys found on server"}
+{"level":30,"time":1734578746959,"pid":8066,"hostname":"localhost","msg":"opened connection to WA"}
+{"level":30,"time":1734578747011,"pid":8066,"hostname":"localhost","msg":"Update koneksi:"}
+{"level":30,"time":1734578747015,"pid":8066,"hostname":"localhost","msg":"Update koneksi:"}
+{"level":30,"time":1734578747015,"pid":8066,"hostname":"localhost","msg":"Bot terhubung ke WhatsApp!"}
+{"level":30,"time":1734578747043,"pid":8066,"hostname":"localhost","msg":"handled 3 offline messages/notifications"}
+{"level":30,"time":1734578747044,"pid":8066,"hostname":"localhost","msg":"Update koneksi:"}
+{"level":30,"time":1734578813268,"pid":8610,"hostname":"localhost","msg":"Update koneksi:"}
+{"level":30,"time":1734578813275,"pid":8610,"hostname":"localhost","msg":"Server TCP berjalan di 0.0.0.0:16267"}
+{"level":30,"time":1734578814614,"pid":8610,"hostname":"localhost","browser":["Ubuntu","Chrome","22.04.4"],"helloMsg":{"clientHello":{"ephemeral":"J5bC8wmL9OAw/nYwkFWSBF5ObXF5+y9BEGfJKOeGwgE="}},"msg":"connected to WA"}
+{"level":30,"time":1734578815054,"pid":8610,"hostname":"localhost","node":{"username":"6289616729523","passive":true,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1017531287},"osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","device":28},"msg":"logging in..."}
+{"level":30,"time":1734578815869,"pid":8610,"hostname":"localhost","msg":"27 pre-keys found on server"}
+{"level":30,"time":1734578816195,"pid":8610,"hostname":"localhost","msg":"opened connection to WA"}
+{"level":30,"time":1734578816227,"pid":8610,"hostname":"localhost","msg":"Update koneksi:"}
+{"level":30,"time":1734578816230,"pid":8610,"hostname":"localhost","msg":"Update koneksi:"}
+{"level":30,"time":1734578816230,"pid":8610,"hostname":"localhost","msg":"Bot terhubung ke WhatsApp!"}
+{"level":30,"time":1734578816346,"pid":8610,"hostname":"localhost","msg":"handled 4 offline messages/notifications"}
+{"level":30,"time":1734578816346,"pid":8610,"hostname":"localhost","msg":"Update koneksi:"}
+{"level":30,"time":1734579669963,"pid":11762,"hostname":"localhost","msg":"Update koneksi:"}
+{"level":30,"time":1734579669970,"pid":11762,"hostname":"localhost","msg":"Server TCP berjalan di 0.0.0.0:16267"}
+{"level":30,"time":1734579670823,"pid":11762,"hostname":"localhost","browser":["Ubuntu","Chrome","22.04.4"],"helloMsg":{"clientHello":{"ephemeral":"4KaXYFNdT1cwwda8iUNxPD0K6DODSTh7LArvYc5THxM="}},"msg":"connected to WA"}
+{"level":30,"time":1734579671152,"pid":11762,"hostname":"localhost","node":{"username":"6289616729523","passive":true,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1017531287},"osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","device":28},"msg":"logging in..."}
+{"level":30,"time":1734579671736,"pid":11762,"hostname":"localhost","msg":"25 pre-keys found on server"}
+{"level":30,"time":1734579672017,"pid":11762,"hostname":"localhost","msg":"opened connection to WA"}
+{"level":30,"time":1734579672045,"pid":11762,"hostname":"localhost","msg":"Update koneksi:"}
+{"level":30,"time":1734579672048,"pid":11762,"hostname":"localhost","msg":"Update koneksi:"}
+{"level":30,"time":1734579672048,"pid":11762,"hostname":"localhost","msg":"Bot terhubung ke WhatsApp!"}
+{"level":30,"time":1734579672094,"pid":11762,"hostname":"localhost","msg":"handled 0 offline messages/notifications"}
+{"level":30,"time":1734579672096,"pid":11762,"hostname":"localhost","msg":"Update koneksi:"}
+2024-12-19T03:46:41.180Z [info]: Update koneksi:
+2024-12-19T03:46:41.193Z [info]: Server TCP berjalan di 0.0.0.0:16267
+2024-12-19T03:46:42.280Z [info]: [object Object]
+2024-12-19T03:48:53.606Z [info]: Update koneksi:
+2024-12-19T03:48:53.623Z [info]: Server TCP berjalan di 0.0.0.0:16267
+2024-12-19T03:48:54.359Z [info]: [object Object]
+2024-12-19T03:50:40.303Z [info]: Update koneksi:
+2024-12-19T03:50:40.316Z [info]: Server TCP berjalan di 0.0.0.0:16267
+2024-12-19T03:50:40.816Z [info]: [object Object]
+2024-12-19T03:50:41.253Z [info]: [object Object]
+2024-12-19T03:50:42.084Z [info]: 23 pre-keys found on server
+2024-12-19T03:50:42.471Z [info]: opened connection to WA
+2024-12-19T03:50:42.515Z [info]: Update koneksi:
+2024-12-19T03:50:42.522Z [info]: Update koneksi:
+2024-12-19T03:50:42.524Z [info]: Bot terhubung ke WhatsApp!
+2024-12-19T03:50:42.633Z [info]: handled 11 offline messages/notifications
+2024-12-19T03:50:42.636Z [info]: Update koneksi:
+2024-12-19T03:54:27.011Z [info]: Update koneksi:
+2024-12-19T03:54:27.026Z [info]: Server TCP berjalan di 127.0.0.1:3000
+2024-12-19T03:54:27.437Z [info]: [object Object]
+2024-12-19T03:54:27.717Z [info]: [object Object]
+2024-12-19T03:54:28.214Z [info]: 23 pre-keys found on server
+2024-12-19T03:54:28.480Z [info]: opened connection to WA
+2024-12-19T03:54:28.519Z [info]: Update koneksi:
+2024-12-19T03:54:28.523Z [info]: Update koneksi:
+2024-12-19T03:54:28.524Z [info]: Bot terhubung ke WhatsApp!
+2024-12-19T03:54:28.566Z [info]: handled 10 offline messages/notifications
+2024-12-19T03:54:28.567Z [info]: Update koneksi:
+2024-12-19T03:56:05.819Z [info]: Client terhubung ke server TCP
+2024-12-19T03:56:06.306Z [info]: Data diterima:
+2024-12-19T03:56:20.500Z [info]: Update koneksi:
+2024-12-19T03:56:20.520Z [info]: Server TCP berjalan di 127.0.0.1:3000
+2024-12-19T03:56:20.878Z [info]: [object Object]
+2024-12-19T03:56:21.141Z [info]: [object Object]
+2024-12-19T03:56:21.621Z [info]: 23 pre-keys found on server
+2024-12-19T03:56:21.742Z [info]: Client terhubung ke server TCP
+2024-12-19T03:56:21.853Z [info]: opened connection to WA
+2024-12-19T03:56:21.875Z [info]: Update koneksi:
+2024-12-19T03:56:21.881Z [info]: Update koneksi:
+2024-12-19T03:56:21.884Z [info]: Bot terhubung ke WhatsApp!
+2024-12-19T03:56:21.955Z [info]: handled 2 offline messages/notifications
+2024-12-19T03:56:21.957Z [info]: Update koneksi:
+2024-12-19T03:56:22.187Z [info]: Client terhubung ke server TCP
+2024-12-19T03:56:22.210Z [info]: Data diterima:
+2024-12-19T03:56:34.662Z [info]: Update koneksi:
+2024-12-19T03:56:34.680Z [info]: Server TCP berjalan di 127.0.0.1:3000
+2024-12-19T03:56:35.066Z [info]: [object Object]
+2024-12-19T03:56:35.374Z [info]: [object Object]
+2024-12-19T03:56:35.974Z [info]: 23 pre-keys found on server
+2024-12-19T03:56:36.107Z [info]: Client terhubung ke server TCP
+2024-12-19T03:56:36.265Z [info]: opened connection to WA
+2024-12-19T03:56:36.303Z [info]: Update koneksi:
+2024-12-19T03:56:36.308Z [info]: Update koneksi:
+2024-12-19T03:56:36.311Z [info]: Bot terhubung ke WhatsApp!
+2024-12-19T03:56:36.345Z [info]: handled 3 offline messages/notifications
+2024-12-19T03:56:36.346Z [info]: Update koneksi:
+2024-12-19T03:56:36.501Z [error]: [object Object]
+2024-12-19T03:56:36.531Z [info]: Client terhubung ke server TCP
+2024-12-19T03:56:36.548Z [info]: Data diterima:
+2024-12-19T04:18:17.897Z [info]: Update koneksi:
+2024-12-19T04:18:17.911Z [info]: Server TCP berjalan di 127.0.0.1:3000
+2024-12-19T04:18:18.715Z [info]: [object Object]
+2024-12-19T04:18:19.190Z [info]: [object Object]
+2024-12-19T04:18:20.065Z [info]: 23 pre-keys found on server
+2024-12-19T04:18:20.433Z [info]: opened connection to WA
+2024-12-19T04:18:20.454Z [info]: Update koneksi:
+2024-12-19T04:18:20.459Z [info]: Update koneksi:
+2024-12-19T04:18:20.460Z [info]: Bot terhubung ke WhatsApp!
+2024-12-19T04:18:21.276Z [info]: handled 205 offline messages/notifications
+2024-12-19T04:18:21.277Z [info]: Update koneksi:
+2024-12-19T04:18:21.432Z [info]: [object Object]
+2024-12-19T04:18:22.139Z [error]: [object Object]
+2024-12-19T04:18:22.152Z [error]: [object Object]
+2024-12-19T04:18:22.183Z [error]: [object Object]
+2024-12-19T04:18:22.190Z [error]: [object Object]
+2024-12-19T04:18:22.193Z [info]: [object Object]
+2024-12-19T04:18:22.219Z [error]: [object Object]
+2024-12-19T04:18:22.222Z [error]: [object Object]
+2024-12-19T04:18:27.205Z [info]: [object Object]
+2024-12-19T04:18:32.546Z [info]: [object Object]
+2024-12-19T04:18:37.840Z [info]: [object Object]
+2024-12-19T04:18:40.131Z [info]: Client terhubung ke server TCP
+2024-12-19T04:18:40.545Z [info]: Data diterima:
+2024-12-19T04:56:37.005Z [info]: Update koneksi:
+2024-12-19T04:56:37.021Z [info]: Server TCP berjalan di 0.0.0.0:16267
+2024-12-19T04:56:37.737Z [info]: [object Object]
+2024-12-19T04:56:37.996Z [info]: [object Object]
+2024-12-19T04:56:38.477Z [info]: 22 pre-keys found on server
+2024-12-19T04:56:38.693Z [info]: opened connection to WA
+2024-12-19T04:56:38.724Z [info]: Update koneksi:
+2024-12-19T04:56:38.728Z [info]: Update koneksi:
+2024-12-19T04:56:38.729Z [info]: Bot terhubung ke WhatsApp!
+2024-12-19T04:56:39.674Z [info]: handled 208 offline messages/notifications
+2024-12-19T04:56:39.677Z [info]: Update koneksi:
+2024-12-19T04:56:41.966Z [error]: [object Object]
+2024-12-19T04:56:41.983Z [error]: [object Object]
+2024-12-19T04:56:42.093Z [error]: [object Object]
+2024-12-19T04:56:42.138Z [error]: [object Object]
+2024-12-19T04:56:47.062Z [info]: [object Object]
+2024-12-19T04:56:52.355Z [info]: [object Object]
+2024-12-19T04:56:57.638Z [info]: [object Object]
+2024-12-19T04:57:02.914Z [info]: [object Object]
+2024-12-19T05:00:57.280Z [info]: Update koneksi:
+2024-12-19T05:00:57.295Z [info]: Server TCP berjalan di 127.0.0.1:3000
+2024-12-19T05:00:58.179Z [info]: [object Object]
+2024-12-19T05:00:58.494Z [info]: [object Object]
+2024-12-19T05:00:59.028Z [info]: 22 pre-keys found on server
+2024-12-19T05:00:59.271Z [info]: opened connection to WA
+2024-12-19T05:00:59.295Z [info]: Update koneksi:
+2024-12-19T05:00:59.300Z [info]: Update koneksi:
+2024-12-19T05:00:59.300Z [info]: Bot terhubung ke WhatsApp!
+2024-12-19T05:00:59.312Z [info]: handled 0 offline messages/notifications
+2024-12-19T05:00:59.315Z [info]: Update koneksi:
+2024-12-19T05:01:00.644Z [info]: Client terhubung ke server TCP
+2024-12-19T05:01:00.883Z [info]: Client terputus
+2024-12-19T05:01:00.922Z [info]: Client terhubung ke server TCP
+2024-12-19T05:01:01.167Z [info]: Client terputus
+2024-12-19T05:01:07.892Z [info]: Client terhubung ke server TCP
+2024-12-19T05:01:08.144Z [info]: Client terputus
+2024-12-19T05:01:08.174Z [info]: Client terhubung ke server TCP
+2024-12-19T05:01:08.419Z [info]: Client terputus
+2024-12-19T05:01:15.194Z [info]: Client terhubung ke server TCP
+2024-12-19T05:01:15.438Z [info]: Client terputus
+2024-12-19T05:01:15.526Z [info]: Client terhubung ke server TCP
+2024-12-19T05:01:15.752Z [info]: Client terputus
+2024-12-19T05:01:23.695Z [info]: Client terhubung ke server TCP
+2024-12-19T05:01:23.815Z [info]: Client terhubung ke server TCP
+2024-12-19T05:01:23.919Z [info]: Client terputus
+2024-12-19T05:01:24.045Z [info]: Client terputus
+2024-12-19T05:01:31.067Z [info]: Client terhubung ke server TCP
+2024-12-19T05:01:31.270Z [info]: Client terputus
+2024-12-19T05:01:31.303Z [info]: Client terhubung ke server TCP
+2024-12-19T05:01:31.607Z [info]: Client terputus
+2024-12-19T05:01:38.315Z [info]: Client terhubung ke server TCP
+2024-12-19T05:01:38.559Z [info]: Client terputus
+2024-12-19T05:01:38.642Z [info]: Client terhubung ke server TCP
+2024-12-19T05:01:38.855Z [info]: Client terputus
+2024-12-19T05:01:45.534Z [info]: Client terhubung ke server TCP
+2024-12-19T05:01:45.748Z [info]: Client terputus
+2024-12-19T05:01:45.848Z [info]: Client terhubung ke server TCP
+2024-12-19T05:01:46.059Z [info]: Client terputus
+2024-12-19T05:01:52.790Z [info]: Client terhubung ke server TCP
+2024-12-19T05:01:53.030Z [info]: Client terputus
+2024-12-19T05:01:53.136Z [info]: Client terhubung ke server TCP
+2024-12-19T05:01:53.372Z [info]: Client terputus
+2024-12-19T05:12:05.354Z [info]: Update koneksi:
+2024-12-19T05:12:05.369Z [info]: Server TCP berjalan di 127.0.0.1:3000
+2024-12-19T05:12:06.057Z [info]: [object Object]
+2024-12-19T05:12:06.371Z [info]: [object Object]
+2024-12-19T05:12:06.961Z [info]: 22 pre-keys found on server
+2024-12-19T05:12:07.268Z [info]: opened connection to WA
+2024-12-19T05:12:07.311Z [info]: Update koneksi:
+2024-12-19T05:12:07.318Z [info]: Update koneksi:
+2024-12-19T05:12:07.320Z [info]: Bot terhubung ke WhatsApp!
+2024-12-19T05:12:07.330Z [info]: handled 0 offline messages/notifications
+2024-12-19T05:12:07.333Z [info]: Update koneksi:
+2024-12-19T05:13:01.908Z [info]: Client terhubung ke server TCP
+2024-12-19T05:13:02.158Z [info]: Client terputus
+2024-12-19T05:13:02.479Z [info]: Client terhubung ke server TCP
+2024-12-19T05:13:02.676Z [info]: Client terputus
+2024-12-19T05:13:10.639Z [info]: Client terhubung ke server TCP
+2024-12-19T05:13:10.858Z [info]: Client terputus
+2024-12-19T05:13:11.008Z [info]: Client terhubung ke server TCP
+2024-12-19T05:13:11.229Z [info]: Client terputus
+2024-12-19T05:13:17.840Z [info]: Client terhubung ke server TCP
+2024-12-19T05:13:18.037Z [info]: Client terputus
+2024-12-19T05:13:18.761Z [info]: Client terhubung ke server TCP
+2024-12-19T05:13:18.965Z [info]: Client terputus
+2024-12-19T05:13:25.076Z [info]: Client terhubung ke server TCP
+2024-12-19T05:13:25.274Z [info]: Client terputus
+2024-12-19T05:13:25.374Z [info]: Client terhubung ke server TCP
+2024-12-19T05:13:25.565Z [info]: Client terputus
+2024-12-19T05:13:32.276Z [info]: Client terhubung ke server TCP
+2024-12-19T05:13:32.476Z [info]: Client terputus
+2024-12-19T05:13:32.664Z [info]: Client terhubung ke server TCP
+2024-12-19T05:13:32.879Z [info]: Data diterima:
+2024-12-19T05:13:32.880Z [info]: Data setelah di-parse: Keluar dari server
+2024-12-19T05:13:32.911Z [info]: Client terputus
+2024-12-19T05:13:34.748Z [info]: Pesan terkirim: *[Leave]*
+*versionCheck* telah keluar dari server.
+2024-12-19T05:13:35.571Z [info]: [object Object]
+2024-12-19T05:13:35.573Z [warn]: [object Object]
+2024-12-19T05:13:39.449Z [info]: Client terhubung ke server TCP
+2024-12-19T05:13:39.645Z [info]: Client terputus
+2024-12-19T05:13:39.799Z [info]: Client terhubung ke server TCP
+2024-12-19T05:13:40.009Z [info]: Client terputus
+2024-12-19T05:13:46.639Z [info]: Client terhubung ke server TCP
+2024-12-19T05:13:46.841Z [info]: Client terputus
+2024-12-19T05:13:46.901Z [info]: Client terhubung ke server TCP
+2024-12-19T05:13:47.101Z [info]: Client terputus
+2024-12-19T05:13:53.849Z [info]: Client terhubung ke server TCP
+2024-12-19T05:13:54.052Z [info]: Client terputus
+2024-12-19T05:13:54.090Z [info]: Client terhubung ke server TCP
+2024-12-19T05:13:54.319Z [info]: Client terputus
+2024-12-19T05:14:01.039Z [info]: Client terhubung ke server TCP
+2024-12-19T05:14:01.250Z [info]: Client terputus
+2024-12-19T05:14:01.362Z [info]: Client terhubung ke server TCP
+2024-12-19T05:14:01.597Z [info]: Client terputus
+2024-12-19T05:14:08.079Z [info]: Client terhubung ke server TCP
+2024-12-19T05:14:08.277Z [info]: Client terputus
+2024-12-19T05:14:08.361Z [info]: Client terhubung ke server TCP
+2024-12-19T05:14:08.597Z [info]: Client terputus
+2024-12-19T05:14:15.202Z [info]: Client terhubung ke server TCP
+2024-12-19T05:14:15.401Z [info]: Client terputus
+2024-12-19T05:14:15.505Z [info]: Client terhubung ke server TCP
+2024-12-19T05:14:15.717Z [info]: Client terputus
+2024-12-19T05:14:22.376Z [info]: Client terhubung ke server TCP
+2024-12-19T05:14:22.629Z [info]: Client terputus
+2024-12-19T05:14:22.636Z [info]: Client terhubung ke server TCP
+2024-12-19T05:14:22.877Z [info]: Client terputus
+2024-12-19T05:14:30.015Z [info]: Client terhubung ke server TCP
+2024-12-19T05:14:30.234Z [info]: Client terputus
+2024-12-19T05:14:30.319Z [info]: Client terhubung ke server TCP
+2024-12-19T05:14:30.515Z [info]: Client terputus
+2024-12-19T05:14:37.247Z [info]: Client terhubung ke server TCP
+2024-12-19T05:14:37.456Z [info]: Client terputus
+2024-12-19T05:14:37.533Z [info]: Client terhubung ke server TCP
+2024-12-19T05:14:37.741Z [info]: Client terputus
+2024-12-19T05:14:44.505Z [info]: Client terhubung ke server TCP
+2024-12-19T05:14:44.714Z [info]: Client terputus
+2024-12-19T05:14:44.809Z [info]: Client terhubung ke server TCP
+2024-12-19T05:14:45.035Z [info]: Client terputus
+2024-12-19T05:14:51.600Z [info]: Client terhubung ke server TCP
+2024-12-19T05:14:51.808Z [info]: Client terputus
+2024-12-19T05:14:51.889Z [info]: Client terhubung ke server TCP
+2024-12-19T05:14:52.102Z [info]: Client terputus
+2024-12-19T05:14:59.238Z [info]: Client terhubung ke server TCP
+2024-12-19T05:14:59.447Z [info]: Client terputus
+2024-12-19T05:14:59.515Z [info]: Client terhubung ke server TCP
+2024-12-19T05:14:59.725Z [info]: Client terputus
+2024-12-19T05:15:06.597Z [info]: Client terhubung ke server TCP
+2024-12-19T05:15:06.794Z [info]: Client terputus
+2024-12-19T05:15:06.895Z [info]: Client terhubung ke server TCP
+2024-12-19T05:15:07.114Z [info]: Client terputus
+2024-12-19T05:15:13.744Z [info]: Client terhubung ke server TCP
+2024-12-19T05:15:13.955Z [info]: Client terhubung ke server TCP
+2024-12-19T05:15:14.014Z [info]: Client terputus
+2024-12-19T05:15:14.171Z [info]: Client terputus
+2024-12-19T05:15:21.001Z [info]: Client terhubung ke server TCP
+2024-12-19T05:15:21.196Z [info]: Client terputus
+2024-12-19T05:15:21.295Z [info]: Client terhubung ke server TCP
+2024-12-19T05:15:21.522Z [info]: Client terputus
+2024-12-19T05:15:28.011Z [info]: Client terhubung ke server TCP
+2024-12-19T05:15:28.207Z [info]: Client terputus
+2024-12-19T05:15:28.307Z [info]: Client terhubung ke server TCP
+2024-12-19T05:15:28.530Z [info]: Client terputus
+2024-12-19T05:15:35.321Z [info]: Client terhubung ke server TCP
+2024-12-19T05:15:35.555Z [info]: Client terputus
+2024-12-19T05:15:35.676Z [info]: Client terhubung ke server TCP
+2024-12-19T05:15:35.876Z [info]: Client terputus
+2024-12-19T05:15:42.385Z [info]: Client terhubung ke server TCP
+2024-12-19T05:15:42.594Z [info]: Client terputus
+2024-12-19T05:15:42.648Z [info]: Client terhubung ke server TCP
+2024-12-19T05:15:42.857Z [info]: Client terputus
+2024-12-19T05:15:49.397Z [info]: Client terhubung ke server TCP
+2024-12-19T05:15:49.594Z [info]: Client terputus
+2024-12-19T05:15:49.690Z [info]: Client terhubung ke server TCP
+2024-12-19T05:15:49.929Z [info]: Client terputus
+2024-12-19T05:15:56.448Z [info]: Client terhubung ke server TCP
+2024-12-19T05:15:56.647Z [info]: Client terputus
+2024-12-19T05:15:56.690Z [info]: Client terhubung ke server TCP
+2024-12-19T05:15:56.901Z [info]: Client terputus
+2024-12-19T05:16:03.831Z [info]: Client terhubung ke server TCP
+2024-12-19T05:16:04.040Z [info]: Client terputus
+2024-12-19T05:16:04.168Z [info]: Client terhubung ke server TCP
+2024-12-19T05:16:04.399Z [info]: Client terputus
+2024-12-19T05:16:10.959Z [info]: Client terhubung ke server TCP
+2024-12-19T05:16:11.161Z [info]: Client terputus
+2024-12-19T05:16:11.281Z [info]: Client terhubung ke server TCP
+2024-12-19T05:16:11.499Z [info]: Client terputus
+2024-12-19T05:16:18.044Z [info]: Client terhubung ke server TCP
+2024-12-19T05:16:18.280Z [info]: Client terputus
+2024-12-19T05:16:18.320Z [info]: Client terhubung ke server TCP
+2024-12-19T05:16:18.524Z [info]: Client terputus
+2024-12-19T05:16:25.405Z [info]: Client terhubung ke server TCP
+2024-12-19T05:16:25.615Z [info]: Client terputus
+2024-12-19T05:16:25.699Z [info]: Client terhubung ke server TCP
+2024-12-19T05:16:25.923Z [info]: Client terputus
+2024-12-19T05:16:32.438Z [info]: Client terhubung ke server TCP
+2024-12-19T05:16:32.635Z [info]: Client terputus
+2024-12-19T05:16:32.728Z [info]: Client terhubung ke server TCP
+2024-12-19T05:16:32.966Z [info]: Client terputus
+2024-12-19T05:16:39.480Z [info]: Client terhubung ke server TCP
+2024-12-19T05:16:39.676Z [info]: Client terputus
+2024-12-19T05:16:39.809Z [info]: Client terhubung ke server TCP
+2024-12-19T05:16:40.051Z [info]: Client terputus
+2024-12-19T05:16:46.666Z [info]: Client terhubung ke server TCP
+2024-12-19T05:16:46.877Z [info]: Client terputus
+2024-12-19T05:16:46.999Z [info]: Client terhubung ke server TCP
+2024-12-19T05:16:47.237Z [info]: Client terputus
+2024-12-19T05:16:53.997Z [info]: Client terhubung ke server TCP
+2024-12-19T05:16:54.206Z [info]: Client terputus
+2024-12-19T05:16:54.490Z [info]: Client terhubung ke server TCP
+2024-12-19T05:16:54.692Z [info]: Client terputus
+2024-12-19T05:17:01.406Z [info]: Client terhubung ke server TCP
+2024-12-19T05:17:01.605Z [info]: Client terputus
+2024-12-19T05:17:08.562Z [info]: Client terhubung ke server TCP
+2024-12-19T05:17:08.762Z [info]: Client terputus
+2024-12-19T05:17:08.813Z [info]: Client terhubung ke server TCP
+2024-12-19T05:17:09.036Z [info]: Client terputus
+2024-12-19T05:17:15.639Z [info]: Client terhubung ke server TCP
+2024-12-19T05:17:15.841Z [info]: Client terputus
+2024-12-19T05:17:15.893Z [info]: Client terhubung ke server TCP
+2024-12-19T05:17:16.085Z [info]: Client terputus
+2024-12-19T05:17:22.962Z [info]: Client terhubung ke server TCP
+2024-12-19T05:17:23.160Z [info]: Client terputus
+2024-12-19T05:17:23.218Z [info]: Client terhubung ke server TCP
+2024-12-19T05:17:23.434Z [info]: Client terputus
+2024-12-19T05:17:29.984Z [info]: Client terhubung ke server TCP
+2024-12-19T05:17:30.201Z [info]: Client terputus
+2024-12-19T05:17:30.247Z [info]: Client terhubung ke server TCP
+2024-12-19T05:17:30.444Z [info]: Client terputus
+2024-12-19T05:17:37.089Z [info]: Client terhubung ke server TCP
+2024-12-19T05:17:37.295Z [info]: Client terputus
+2024-12-19T05:17:37.430Z [info]: Client terhubung ke server TCP
+2024-12-19T05:17:37.647Z [info]: Client terputus
+2024-12-19T05:17:44.330Z [info]: Client terhubung ke server TCP
+2024-12-19T05:17:44.535Z [info]: Client terputus
+2024-12-19T05:17:44.653Z [info]: Client terhubung ke server TCP
+2024-12-19T05:17:44.880Z [info]: Client terputus
+2024-12-19T05:17:52.489Z [info]: Client terhubung ke server TCP
+2024-12-19T05:17:52.715Z [info]: Client terputus
+2024-12-19T05:17:52.729Z [info]: Client terhubung ke server TCP
+2024-12-19T05:17:52.974Z [info]: Client terputus
+2024-12-19T05:17:59.796Z [info]: Client terhubung ke server TCP
+2024-12-19T05:18:00.007Z [info]: Client terputus
+2024-12-19T05:18:00.055Z [info]: Client terhubung ke server TCP
+2024-12-19T05:18:00.261Z [info]: Client terputus
+2024-12-19T05:18:06.959Z [info]: Client terhubung ke server TCP
+2024-12-19T05:18:07.171Z [info]: Client terputus
+2024-12-19T05:18:07.283Z [info]: Client terhubung ke server TCP
+2024-12-19T05:18:07.493Z [info]: Client terputus
+2024-12-19T05:18:14.076Z [info]: Client terhubung ke server TCP
+2024-12-19T05:18:14.281Z [info]: Client terputus
+2024-12-19T05:18:14.383Z [info]: Client terhubung ke server TCP
+2024-12-19T05:18:14.596Z [info]: Client terputus
+2024-12-19T05:18:21.202Z [info]: Client terhubung ke server TCP
+2024-12-19T05:18:21.396Z [info]: Client terputus
+2024-12-19T05:18:21.513Z [info]: Client terhubung ke server TCP
+2024-12-19T05:18:21.714Z [info]: Client terputus
+2024-12-19T05:18:28.402Z [info]: Client terhubung ke server TCP
+2024-12-19T05:18:28.613Z [info]: Client terputus
+2024-12-19T05:18:28.702Z [info]: Client terhubung ke server TCP
+2024-12-19T05:18:28.897Z [info]: Client terputus
+2024-12-19T05:18:35.640Z [info]: Client terhubung ke server TCP
+2024-12-19T05:18:35.845Z [info]: Client terputus
+2024-12-19T05:18:35.910Z [info]: Client terhubung ke server TCP
+2024-12-19T05:18:36.140Z [info]: Client terputus
+2024-12-19T05:18:42.693Z [info]: Client terhubung ke server TCP
+2024-12-19T05:18:42.897Z [info]: Client terputus
+2024-12-19T05:18:43.022Z [info]: Client terhubung ke server TCP
+2024-12-19T05:18:43.233Z [info]: Client terputus
+2024-12-19T05:18:49.781Z [info]: Client terhubung ke server TCP
+2024-12-19T05:18:49.994Z [info]: Client terputus
+2024-12-19T05:18:50.039Z [info]: Client terhubung ke server TCP
+2024-12-19T05:18:50.235Z [info]: Client terputus
+2024-12-19T05:18:57.106Z [info]: Client terhubung ke server TCP
+2024-12-19T05:18:57.293Z [info]: Client terhubung ke server TCP
+2024-12-19T05:18:57.312Z [info]: Client terputus
+2024-12-19T05:18:57.503Z [info]: Client terputus
+2024-12-19T05:19:04.317Z [info]: Client terhubung ke server TCP
+2024-12-19T05:19:04.536Z [info]: Client terputus
+2024-12-19T05:19:04.662Z [info]: Client terhubung ke server TCP
+2024-12-19T05:19:04.858Z [info]: Client terputus
+2024-12-19T05:19:11.420Z [info]: Client terhubung ke server TCP
+2024-12-19T05:19:11.618Z [info]: Client terputus
+2024-12-19T05:19:11.645Z [info]: Client terhubung ke server TCP
+2024-12-19T05:19:11.880Z [info]: Client terputus
+2024-12-19T05:19:18.566Z [info]: Client terhubung ke server TCP
+2024-12-19T05:19:18.768Z [info]: Client terputus
+2024-12-19T05:19:18.847Z [info]: Client terhubung ke server TCP
+2024-12-19T05:19:19.046Z [info]: Client terputus
+2024-12-19T05:19:25.648Z [info]: Client terhubung ke server TCP
+2024-12-19T05:19:25.850Z [info]: Client terputus
+2024-12-19T05:19:25.890Z [info]: Client terhubung ke server TCP
+2024-12-19T05:19:26.154Z [info]: Client terputus
+2024-12-19T05:19:32.756Z [info]: Client terhubung ke server TCP
+2024-12-19T05:19:32.959Z [info]: Client terputus
+2024-12-19T05:19:33.001Z [info]: Client terhubung ke server TCP
+2024-12-19T05:19:33.204Z [info]: Client terputus
+2024-12-19T05:19:39.839Z [info]: Client terhubung ke server TCP
+2024-12-19T05:19:40.047Z [info]: Client terputus
+2024-12-19T05:19:40.152Z [info]: Client terhubung ke server TCP
+2024-12-19T05:19:40.355Z [info]: Client terputus
+2024-12-19T05:19:47.194Z [info]: Client terhubung ke server TCP
+2024-12-19T05:19:47.415Z [info]: Client terputus
+2024-12-19T05:19:47.497Z [info]: Client terhubung ke server TCP
+2024-12-19T05:19:47.723Z [info]: Client terputus
+2024-12-19T05:19:54.355Z [info]: Client terhubung ke server TCP
+2024-12-19T05:19:54.577Z [info]: Client terputus
+2024-12-19T05:19:54.595Z [info]: Client terhubung ke server TCP
+2024-12-19T05:19:54.793Z [info]: Client terputus
+2024-12-19T05:20:01.528Z [info]: Client terhubung ke server TCP
+2024-12-19T05:20:01.735Z [info]: Client terputus
+2024-12-19T05:20:01.837Z [info]: Client terhubung ke server TCP
+2024-12-19T05:20:02.033Z [info]: Client terputus
+2024-12-19T05:20:08.782Z [info]: Client terhubung ke server TCP
+2024-12-19T05:20:08.995Z [info]: Client terputus
+2024-12-19T05:20:09.037Z [info]: Client terhubung ke server TCP
+2024-12-19T05:20:09.248Z [info]: Client terputus
+2024-12-19T05:20:15.983Z [info]: Client terhubung ke server TCP
+2024-12-19T05:20:16.195Z [info]: Client terputus
+2024-12-19T05:20:16.290Z [info]: Client terhubung ke server TCP
+2024-12-19T05:20:16.516Z [info]: Client terputus
+2024-12-19T05:20:23.107Z [info]: Client terhubung ke server TCP
+2024-12-19T05:20:23.313Z [info]: Client terputus
+2024-12-19T05:20:23.370Z [info]: Client terhubung ke server TCP
+2024-12-19T05:20:23.580Z [info]: Client terputus
+2024-12-19T05:20:30.450Z [info]: Client terhubung ke server TCP
+2024-12-19T05:20:30.645Z [info]: Client terputus
+2024-12-19T05:20:30.848Z [info]: Client terhubung ke server TCP
+2024-12-19T05:20:31.075Z [info]: Client terputus
+2024-12-19T05:20:37.676Z [info]: Client terhubung ke server TCP
+2024-12-19T05:20:37.875Z [info]: Client terputus
+2024-12-19T05:20:37.997Z [info]: Client terhubung ke server TCP
+2024-12-19T05:20:38.202Z [info]: Client terputus
+2024-12-19T05:20:44.879Z [info]: Client terhubung ke server TCP
+2024-12-19T05:20:45.091Z [info]: Client terputus
+2024-12-19T05:20:45.160Z [info]: Client terhubung ke server TCP
+2024-12-19T05:20:45.361Z [info]: Client terputus
+2024-12-19T05:20:52.115Z [info]: Client terhubung ke server TCP
+2024-12-19T05:20:52.327Z [info]: Client terputus
+2024-12-19T05:20:52.434Z [info]: Client terhubung ke server TCP
+2024-12-19T05:20:52.652Z [info]: Client terputus
+2024-12-19T05:20:59.605Z [info]: Client terhubung ke server TCP
+2024-12-19T05:20:59.820Z [info]: Client terputus
+2024-12-19T05:20:59.920Z [info]: Client terhubung ke server TCP
+2024-12-19T05:21:00.135Z [info]: Client terputus
+2024-12-19T05:21:06.606Z [info]: Client terhubung ke server TCP
+2024-12-19T05:21:06.805Z [info]: Client terputus
+2024-12-19T05:21:06.904Z [info]: Client terhubung ke server TCP
+2024-12-19T05:21:07.112Z [info]: Client terputus
+2024-12-19T05:21:14.146Z [info]: Client terhubung ke server TCP
+2024-12-19T05:21:14.353Z [info]: Client terputus
+2024-12-19T05:21:21.086Z [info]: Client terhubung ke server TCP
+2024-12-19T05:21:21.353Z [info]: Client terputus
+2024-12-19T05:21:21.465Z [info]: Client terhubung ke server TCP
+2024-12-19T05:21:21.681Z [info]: Client terputus
+2024-12-19T05:21:28.155Z [info]: Client terhubung ke server TCP
+2024-12-19T05:21:28.396Z [info]: Client terhubung ke server TCP
+2024-12-19T05:21:28.399Z [info]: Client terputus
+2024-12-19T05:21:28.595Z [info]: Client terputus
+2024-12-19T05:21:35.278Z [info]: Client terhubung ke server TCP
+2024-12-19T05:21:35.514Z [info]: Client terputus
+2024-12-19T05:21:35.521Z [info]: Client terhubung ke server TCP
+2024-12-19T05:21:35.714Z [info]: Client terputus
+2024-12-19T05:21:42.415Z [info]: Client terhubung ke server TCP
+2024-12-19T05:21:42.618Z [info]: Client terputus
+2024-12-19T05:21:42.693Z [info]: Client terhubung ke server TCP
+2024-12-19T05:21:42.915Z [info]: Client terputus
+2024-12-19T05:21:49.719Z [info]: Client terhubung ke server TCP
+2024-12-19T05:21:49.920Z [info]: Client terputus
+2024-12-19T05:21:49.994Z [info]: Client terhubung ke server TCP
+2024-12-19T05:21:50.197Z [info]: Client terputus
+2024-12-19T05:21:56.842Z [info]: Client terhubung ke server TCP
+2024-12-19T05:21:57.047Z [info]: Client terputus
+2024-12-19T05:21:57.087Z [info]: Client terhubung ke server TCP
+2024-12-19T05:21:57.284Z [info]: Client terputus
+2024-12-19T05:22:03.997Z [info]: Client terhubung ke server TCP
+2024-12-19T05:22:04.204Z [info]: Client terputus
+2024-12-19T05:22:04.302Z [info]: Client terhubung ke server TCP
+2024-12-19T05:22:04.515Z [info]: Client terputus
+2024-12-19T05:22:11.199Z [info]: Client terhubung ke server TCP
+2024-12-19T05:22:11.396Z [info]: Client terputus
+2024-12-19T05:22:11.497Z [info]: Client terhubung ke server TCP
+2024-12-19T05:22:11.699Z [info]: Client terputus
+2024-12-19T05:22:18.450Z [info]: Client terhubung ke server TCP
+2024-12-19T05:22:18.670Z [info]: Client terputus
+2024-12-19T05:22:18.719Z [info]: Client terhubung ke server TCP
+2024-12-19T05:22:18.947Z [info]: Client terputus
+2024-12-19T05:22:25.761Z [info]: Client terhubung ke server TCP
+2024-12-19T05:22:25.975Z [info]: Client terputus
+2024-12-19T05:22:26.019Z [info]: Client terhubung ke server TCP
+2024-12-19T05:22:26.219Z [info]: Client terputus
+2024-12-19T05:22:32.965Z [info]: Client terhubung ke server TCP
+2024-12-19T05:22:33.114Z [info]: Client terhubung ke server TCP
+2024-12-19T05:22:33.213Z [info]: Client terputus
+2024-12-19T05:22:33.342Z [info]: Client terputus
+2024-12-19T05:22:40.096Z [info]: Client terhubung ke server TCP
+2024-12-19T05:22:40.311Z [info]: Client terputus
+2024-12-19T05:22:40.431Z [info]: Client terhubung ke server TCP
+2024-12-19T05:22:40.643Z [info]: Client terputus
+2024-12-19T05:22:47.391Z [info]: Client terhubung ke server TCP
+2024-12-19T05:22:47.600Z [info]: Client terputus
+2024-12-19T05:22:47.677Z [info]: Client terhubung ke server TCP
+2024-12-19T05:22:47.937Z [info]: Client terputus
+2024-12-19T05:22:54.693Z [info]: Client terhubung ke server TCP
+2024-12-19T05:22:54.917Z [info]: Client terputus
+2024-12-19T05:22:54.980Z [info]: Client terhubung ke server TCP
+2024-12-19T05:22:55.201Z [info]: Client terputus
+2024-12-19T05:30:03.100Z [error]: [object Object]
+2024-12-19T05:30:08.120Z [info]: [object Object]
+2024-12-19T05:34:13.677Z [info]: Client terhubung ke server TCP
+2024-12-19T05:35:02.236Z [info]: Data diterima:
+2024-12-19T05:35:02.237Z [info]: Data setelah di-parse: Bergabung ke server
+2024-12-19T05:35:03.394Z [info]: Pesan terkirim: *[Join]*
+*BOTMASUKNopalz* telah bergabung ke server!
+2024-12-19T05:35:04.197Z [info]: [object Object]
+2024-12-19T05:35:04.198Z [warn]: [object Object]
+2024-12-19T05:35:39.451Z [info]: Data diterima:
+2024-12-19T05:35:39.453Z [info]: Data setelah di-parse: Keluar dari server
+2024-12-19T05:35:39.850Z [info]: Pesan terkirim: *[Leave]*
+*BOTMASUKNopalz* telah keluar dari server.
+2024-12-19T05:35:40.202Z [info]: [object Object]
+2024-12-19T05:35:40.202Z [warn]: [object Object]
+2024-12-19T05:36:39.452Z [warn]: Koneksi timeout, menutup koneksi.
+2024-12-19T05:38:59.454Z [info]: Client terputus
+2024-12-19T05:44:43.733Z [info]: Update koneksi:
+2024-12-19T05:49:36.065Z [info]: Update koneksi:
+2024-12-19T05:49:36.079Z [info]: Server TCP berjalan di 127.0.0.1:3000
+2024-12-19T05:49:36.501Z [info]: [object Object]
+2024-12-19T05:54:03.474Z [info]: Update koneksi:
+2024-12-19T05:54:03.488Z [info]: Server TCP berjalan di 127.0.0.1:3000
+2024-12-19T05:54:04.114Z [info]: [object Object]
+2024-12-19T05:54:04.412Z [info]: [object Object]
+2024-12-19T05:54:04.917Z [info]: 15 pre-keys found on server
+2024-12-19T05:54:05.146Z [info]: opened connection to WA
+2024-12-19T05:54:05.190Z [info]: Update koneksi:
+2024-12-19T05:54:05.197Z [info]: Update koneksi:
+2024-12-19T05:54:05.198Z [info]: Bot terhubung ke WhatsApp!
+2024-12-19T05:54:05.448Z [info]: handled 39 offline messages/notifications
+2024-12-19T05:54:05.450Z [info]: Update koneksi:
+2024-12-19T05:55:42.259Z [info]: Client terhubung ke server TCP
+2024-12-19T05:55:48.569Z [info]: Data diterima:
+2024-12-19T05:55:48.570Z [info]: Data setelah di-parse: Bergabung ke server
+2024-12-19T05:55:49.707Z [info]: Pesan terkirim: *[Join]*
+*NopalzMasuk* telah bergabung ke server!
+2024-12-19T05:55:50.005Z [info]: [object Object]
+2024-12-19T05:55:50.007Z [warn]: [object Object]
+2024-12-19T05:56:20.272Z [info]: Data diterima:
+2024-12-19T05:56:20.276Z [info]: Data setelah di-parse: Bergabung ke server
+2024-12-19T05:56:20.698Z [info]: Pesan terkirim: *[Join]*
+*versionCheck* telah bergabung ke server!
+2024-12-19T05:56:20.947Z [info]: Data diterima:
+2024-12-19T05:56:20.950Z [info]: Data setelah di-parse: Keluar dari server
+2024-12-19T05:56:20.999Z [info]: [object Object]
+2024-12-19T05:56:21.001Z [warn]: [object Object]
+2024-12-19T05:56:21.331Z [info]: Pesan terkirim: *[Leave]*
+*versionCheck* telah keluar dari server.
+2024-12-19T05:56:21.627Z [info]: [object Object]
+2024-12-19T05:56:21.632Z [warn]: [object Object]
+2024-12-19T05:56:29.593Z [info]: Data diterima:
+2024-12-19T05:56:29.594Z [info]: Data setelah di-parse: Bergabung ke server
+2024-12-19T05:56:30.001Z [info]: Data diterima:
+2024-12-19T05:56:30.003Z [info]: Data setelah di-parse: Keluar dari server
+2024-12-19T05:56:30.011Z [info]: Pesan terkirim: *[Join]*
+*versionCheck* telah bergabung ke server!
+2024-12-19T05:56:30.287Z [info]: [object Object]
+2024-12-19T05:56:30.288Z [warn]: [object Object]
+2024-12-19T05:56:30.413Z [info]: Pesan terkirim: *[Leave]*
+*versionCheck* telah keluar dari server.
+2024-12-19T05:56:30.704Z [info]: [object Object]
+2024-12-19T05:56:30.705Z [warn]: [object Object]
+2024-12-19T05:56:30.744Z [info]: Data diterima:
+2024-12-19T05:56:30.745Z [info]: Data setelah di-parse: Keluar dari server
+2024-12-19T05:56:31.078Z [info]: Pesan terkirim: *[Leave]*
+*NopalzMasuk* telah keluar dari server.
+2024-12-19T05:56:31.371Z [info]: [object Object]
+2024-12-19T05:56:31.372Z [warn]: [object Object]
+2024-12-19T05:56:37.961Z [info]: Data diterima:
+2024-12-19T05:56:37.962Z [info]: Data setelah di-parse: Bergabung ke server
+2024-12-19T05:56:38.380Z [info]: Pesan terkirim: *[Join]*
+*NopalzMasuk* telah bergabung ke server!
+2024-12-19T05:56:44.666Z [info]: [object Object]
+2024-12-19T05:56:44.666Z [warn]: [object Object]
+2024-12-19T05:57:22.990Z [info]: Data diterima:
+2024-12-19T05:57:22.991Z [info]: Data setelah di-parse: Keluar dari server
+2024-12-19T05:57:23.430Z [info]: Pesan terkirim: *[Leave]*
+*NopalzMasuk* telah keluar dari server.
+2024-12-19T05:57:23.729Z [info]: [object Object]
+2024-12-19T05:57:23.731Z [warn]: [object Object]
+2024-12-19T05:57:31.087Z [info]: Data diterima:
+2024-12-19T05:57:31.088Z [info]: Data setelah di-parse: Bergabung ke server
+2024-12-19T05:57:31.450Z [info]: Pesan terkirim: *[Join]*
+*NopalzMasuk* telah bergabung ke server!
+2024-12-19T05:57:31.744Z [info]: [object Object]
+2024-12-19T05:57:31.745Z [warn]: [object Object]
+2024-12-19T05:57:42.387Z [info]: Data diterima:
+2024-12-19T05:57:42.391Z [info]: Data setelah di-parse: Keluar dari server
+2024-12-19T05:57:42.790Z [info]: Pesan terkirim: *[Leave]*
+*NopalzMasuk* telah keluar dari server.
+2024-12-19T05:57:43.117Z [info]: [object Object]
+2024-12-19T05:57:43.118Z [warn]: [object Object]
+2024-12-19T05:58:42.389Z [warn]: Koneksi timeout, menutup koneksi.
+2024-12-19T06:01:02.389Z [info]: Client terputus
+2024-12-19T06:15:10.689Z [info]: [object Object]
+2024-12-19T06:21:57.446Z [info]: [object Object]
+2024-12-19T06:23:06.559Z [info]: [object Object]
+2024-12-19T06:25:14.451Z [info]: [object Object]
+2024-12-19T10:41:25.880Z [info]: Update koneksi:
+2024-12-19T10:41:25.896Z [info]: Server TCP berjalan di 127.0.0.1:3000
+2024-12-19T10:41:26.381Z [info]: [object Object]
+2024-12-19T10:41:26.767Z [info]: [object Object]
+2024-12-19T10:41:27.588Z [info]: 0 pre-keys found on server
+2024-12-19T10:41:27.599Z [info]: [object Object]
+2024-12-19T10:41:28.343Z [info]: [object Object]
+2024-12-19T10:41:28.753Z [info]: opened connection to WA
+2024-12-19T10:41:28.770Z [info]: Update koneksi:
+2024-12-19T10:41:28.774Z [info]: Update koneksi:
+2024-12-19T10:41:28.775Z [info]: Bot terhubung ke WhatsApp!
+2024-12-19T10:41:34.752Z [info]: handled 2344 offline messages/notifications
+2024-12-19T10:41:34.754Z [info]: Update koneksi:
+2024-12-19T10:41:35.729Z [info]: [object Object]
+2024-12-19T10:41:37.030Z [info]: [object Object]
+2024-12-19T10:41:37.392Z [info]: [object Object]
+2024-12-19T10:41:37.394Z [info]: [object Object]
+2024-12-19T10:41:37.852Z [info]: [object Object]
+2024-12-19T10:41:37.874Z [info]: resyncing critical_unblock_low from v199
+2024-12-19T10:41:38.534Z [info]: synced critical_unblock_low to v201
+2024-12-19T10:41:41.995Z [error]: [object Object]
+2024-12-19T10:41:47.020Z [info]: [object Object]
+2024-12-19T10:41:47.073Z [info]: [object Object]
+2024-12-19T10:41:48.705Z [info]: [object Object]
+2024-12-19T10:41:49.720Z [info]: [object Object]
+2024-12-19T10:41:50.074Z [info]: [object Object]
+2024-12-19T10:41:50.427Z [info]: [object Object]
+2024-12-19T10:41:50.428Z [info]: [object Object]
+2024-12-19T10:42:04.260Z [error]: [object Object]
+2024-12-19T10:42:04.485Z [error]: [object Object]
+2024-12-19T10:42:04.488Z [error]: [object Object]
+2024-12-19T10:42:04.490Z [error]: [object Object]
+2024-12-19T10:42:04.520Z [error]: [object Object]
+2024-12-19T10:42:04.525Z [error]: [object Object]
+2024-12-19T10:42:04.768Z [error]: [object Object]
+2024-12-19T10:42:04.825Z [error]: [object Object]
+2024-12-19T10:42:09.309Z [info]: [object Object]
+2024-12-19T10:42:10.589Z [error]: [object Object]
+2024-12-19T10:42:11.329Z [error]: [object Object]
+2024-12-19T10:42:11.331Z [error]: [object Object]
+2024-12-19T10:42:11.516Z [error]: [object Object]
+2024-12-19T10:42:14.631Z [info]: [object Object]
+2024-12-19T10:42:19.966Z [info]: [object Object]
+2024-12-19T10:42:25.280Z [info]: [object Object]
+2024-12-19T10:42:30.658Z [info]: [object Object]
+2024-12-19T10:42:33.340Z [info]: resyncing critical_unblock_low from v201
+2024-12-19T10:42:35.988Z [info]: [object Object]
+2024-12-19T10:42:41.271Z [info]: [object Object]
+2024-12-19T10:42:46.590Z [info]: [object Object]
+2024-12-19T10:42:51.871Z [info]: [object Object]
+2024-12-19T10:42:57.159Z [info]: [object Object]
+2024-12-19T10:43:02.439Z [info]: [object Object]
+2024-12-19T10:43:07.725Z [info]: [object Object]
+2024-12-19T10:44:35.585Z [info]: Client terhubung ke server TCP
+2024-12-19T10:44:41.526Z [info]: Data diterima:
+2024-12-19T10:44:41.527Z [info]: Data setelah di-parse: btw mana sekolah nya
+2024-12-19T10:44:42.987Z [info]: Pesan terkirim: *[Chat]*
+*.Itsuka_shidu*: btw mana sekolah nya
+2024-12-19T10:44:44.493Z [info]: [object Object]
+2024-12-19T10:44:44.494Z [warn]: [object Object]
+2024-12-19T10:44:56.448Z [info]: Data diterima:
+2024-12-19T10:44:56.449Z [info]: Data setelah di-parse: _-
+2024-12-19T10:44:57.296Z [info]: Pesan terkirim: *[Chat]*
+*.Itsuka_shidu*: _-
+2024-12-19T10:44:58.305Z [info]: [object Object]
+2024-12-19T10:44:58.306Z [warn]: [object Object]
+2024-12-19T10:44:58.375Z [info]: Data diterima:
+2024-12-19T10:44:58.376Z [info]: Data setelah di-parse: mungkin lgi di bangun
+2024-12-19T10:44:58.913Z [info]: Pesan terkirim: *[Chat]*
+*.Vanzz012ch*: mungkin lgi di bangun
+2024-12-19T10:44:59.403Z [info]: [object Object]
+2024-12-19T10:44:59.404Z [warn]: [object Object]
+2024-12-19T10:45:00.930Z [info]: Data diterima:
+2024-12-19T10:45:00.931Z [info]: Data setelah di-parse: kasih op dulu lah
+2024-12-19T10:45:01.500Z [info]: Pesan terkirim: *[Chat]*
+*.Itsuka_shidu*: kasih op dulu lah
+2024-12-19T10:45:02.018Z [info]: [object Object]
+2024-12-19T10:45:02.019Z [warn]: [object Object]
+2024-12-19T10:45:06.326Z [info]: Data diterima:
+2024-12-19T10:45:06.330Z [info]: Data setelah di-parse: Keluar dari server
+2024-12-19T10:45:07.006Z [info]: Pesan terkirim: *[Leave]*
+*.Vanzz012ch* telah keluar dari server.
+2024-12-19T10:45:07.496Z [info]: [object Object]
+2024-12-19T10:45:07.497Z [warn]: [object Object]
+2024-12-19T10:45:14.293Z [info]: Data diterima:
+2024-12-19T10:45:14.294Z [info]: Data setelah di-parse: Bergabung ke server
+2024-12-19T10:45:14.903Z [info]: Pesan terkirim: *[Join]*
+*.YoBen_Real* telah bergabung ke server!
+2024-12-19T10:45:15.388Z [info]: [object Object]
+2024-12-19T10:45:15.388Z [warn]: [object Object]
+2024-12-19T10:45:20.831Z [info]: Data diterima:
+2024-12-19T10:45:20.832Z [info]: Data setelah di-parse: gak tau
+2024-12-19T10:45:21.386Z [info]: Pesan terkirim: *[Chat]*
+*.Itsuka_shidu*: gak tau
+2024-12-19T10:45:21.887Z [info]: [object Object]
+2024-12-19T10:45:21.888Z [warn]: [object Object]
+2024-12-19T10:45:36.036Z [info]: Data diterima:
+2024-12-19T10:45:36.037Z [info]: Data setelah di-parse: asik
+2024-12-19T10:45:36.738Z [info]: Pesan terkirim: *[Chat]*
+*.Itsuka_shidu*: asik
+2024-12-19T10:45:37.305Z [info]: [object Object]
+2024-12-19T10:45:37.306Z [warn]: [object Object]
+2024-12-19T10:45:38.234Z [info]: Data diterima:
+2024-12-19T10:45:38.235Z [info]: Data setelah di-parse: Bergabung ke server
+2024-12-19T10:45:38.821Z [info]: Pesan terkirim: *[Join]*
+*.Vanzz012ch* telah bergabung ke server!
+2024-12-19T10:45:39.319Z [info]: [object Object]
+2024-12-19T10:45:39.319Z [warn]: [object Object]
+2024-12-19T10:45:45.125Z [info]: Data diterima:
+2024-12-19T10:45:45.126Z [info]: Data setelah di-parse: bisa keliatan:)
+2024-12-19T10:45:45.276Z [info]: Data diterima:
+2024-12-19T10:45:45.278Z [info]: Data setelah di-parse: MEMBER KONTOL
+2024-12-19T10:45:45.733Z [info]: Pesan terkirim: *[Chat]*
+*.Itsuka_shidu*: bisa keliatan:)
+2024-12-19T10:45:45.823Z [info]: Pesan terkirim: *[Chat]*
+*.DanzzGod2250*: MEMBER KONTOL
+2024-12-19T10:45:46.229Z [info]: [object Object]
+2024-12-19T10:45:46.229Z [warn]: [object Object]
+2024-12-19T10:45:46.367Z [info]: [object Object]
+2024-12-19T10:45:46.368Z [warn]: [object Object]
+2024-12-19T10:45:53.427Z [info]: Data diterima:
+2024-12-19T10:45:53.428Z [info]: Data setelah di-parse: nah kick aja tuh
+2024-12-19T10:45:54.023Z [info]: Pesan terkirim: *[Chat]*
+*.Itsuka_shidu*: nah kick aja tuh
+2024-12-19T10:45:54.486Z [info]: [object Object]
+2024-12-19T10:45:54.487Z [warn]: [object Object]
+2024-12-19T10:46:06.477Z [info]: Data diterima:
+2024-12-19T10:46:06.477Z [info]: Data setelah di-parse: hallo
+2024-12-19T10:46:07.008Z [info]: Pesan terkirim: *[Chat]*
+*.Vanzz012ch*: hallo
+2024-12-19T10:46:07.602Z [info]: [object Object]
+2024-12-19T10:46:07.603Z [warn]: [object Object]
+2024-12-19T10:46:10.075Z [info]: Data diterima:
+2024-12-19T10:46:10.076Z [info]: Data setelah di-parse: oy op nya mana
+2024-12-19T10:46:10.715Z [info]: Pesan terkirim: *[Chat]*
+*.Itsuka_shidu*: oy op nya mana
+2024-12-19T10:46:11.189Z [info]: [object Object]
+2024-12-19T10:46:11.190Z [warn]: [object Object]
+2024-12-19T10:46:15.181Z [info]: Data diterima:
+2024-12-19T10:46:15.182Z [info]: Data setelah di-parse: YANG BISA BUNUH YOBEN GW KASIH 5 PERMINTAAN
+2024-12-19T10:46:15.783Z [info]: Pesan terkirim: *[Chat]*
+*.DanzzGod2250*: YANG BISA BUNUH YOBEN GW KASIH 5 PERMINTAAN
+2024-12-19T10:46:16.284Z [info]: [object Object]
+2024-12-19T10:46:16.284Z [warn]: [object Object]
+2024-12-19T10:46:44.227Z [info]: Data diterima:
+2024-12-19T10:46:44.228Z [info]: Data setelah di-parse: woii
+2024-12-19T10:46:44.781Z [info]: Data diterima:
+2024-12-19T10:46:44.782Z [info]: Data setelah di-parse: ha
+2024-12-19T10:46:44.786Z [info]: Pesan terkirim: *[Chat]*
+*.GustyCube173605*: woii
+2024-12-19T10:46:45.294Z [info]: [object Object]
+2024-12-19T10:46:45.295Z [warn]: [object Object]
+2024-12-19T10:46:45.439Z [info]: Pesan terkirim: *[Chat]*
+*.DanzzGod2250*: ha
+2024-12-19T10:46:45.903Z [info]: [object Object]
+2024-12-19T10:46:45.904Z [warn]: [object Object]
+2024-12-19T10:46:48.124Z [error]: [object Object]
+2024-12-19T10:46:48.976Z [info]: Data diterima:
+2024-12-19T10:46:48.977Z [info]: Data setelah di-parse: tes
+2024-12-19T10:46:49.525Z [info]: Pesan terkirim: *[Chat]*
+*.Itsuka_shidu*: tes
+2024-12-19T10:46:50.001Z [info]: [object Object]
+2024-12-19T10:46:50.001Z [warn]: [object Object]
+2024-12-19T10:46:52.484Z [info]: Data diterima:
+2024-12-19T10:46:52.485Z [info]: Data setelah di-parse: mulai rondee
+2024-12-19T10:46:53.003Z [info]: Pesan terkirim: *[Chat]*
+*.GustyCube173605*: mulai rondee
+2024-12-19T10:46:53.157Z [info]: [object Object]
+2024-12-19T10:46:53.474Z [info]: [object Object]
+2024-12-19T10:46:53.474Z [warn]: [object Object]
+2024-12-19T10:46:53.776Z [info]: Data diterima:
+2024-12-19T10:46:53.777Z [info]: Data setelah di-parse: mana op nya
+2024-12-19T10:46:54.357Z [info]: Pesan terkirim: *[Chat]*
+*.Itsuka_shidu*: mana op nya
+2024-12-19T10:46:54.844Z [info]: [object Object]
+2024-12-19T10:46:54.845Z [warn]: [object Object]
+2024-12-19T10:46:59.377Z [info]: Data diterima:
+2024-12-19T10:46:59.378Z [info]: Data setelah di-parse: ronde?
+2024-12-19T10:47:00.035Z [info]: Pesan terkirim: *[Chat]*
+*.DanzzGod2250*: ronde?
+2024-12-19T10:47:00.524Z [info]: [object Object]
+2024-12-19T10:47:00.525Z [warn]: [object Object]
+2024-12-19T10:47:12.826Z [info]: Data diterima:
+2024-12-19T10:47:12.827Z [info]: Data setelah di-parse: owner ama dev doang yg op mah
+2024-12-19T10:47:13.463Z [info]: Pesan terkirim: *[Chat]*
+*.GustyCube173605*: owner ama dev doang yg op mah
+2024-12-19T10:47:13.928Z [info]: [object Object]
+2024-12-19T10:47:13.929Z [warn]: [object Object]
+2024-12-19T10:47:20.241Z [info]: Data diterima:
+2024-12-19T10:47:20.243Z [info]: Data setelah di-parse: p
+2024-12-19T10:47:20.802Z [info]: Pesan terkirim: *[Chat]*
+*.GustyCube173605*: p
+2024-12-19T10:47:21.291Z [info]: [object Object]
+2024-12-19T10:47:21.291Z [warn]: [object Object]
+2024-12-19T10:47:21.877Z [info]: Data diterima:
+2024-12-19T10:47:21.881Z [info]: Data setelah di-parse: p
+2024-12-19T10:47:22.415Z [info]: Pesan terkirim: *[Chat]*
+*.GustyCube173605*: p
+2024-12-19T10:47:22.917Z [info]: [object Object]
+2024-12-19T10:47:22.917Z [warn]: [object Object]
+2024-12-19T10:47:23.230Z [info]: Data diterima:
+2024-12-19T10:47:23.230Z [info]: Data setelah di-parse: saya mati kelaparan gak ada makanan
+2024-12-19T10:47:23.725Z [info]: Data diterima:
+2024-12-19T10:47:23.726Z [info]: Data setelah di-parse: p
+2024-12-19T10:47:23.839Z [info]: Pesan terkirim: *[Chat]*
+*.Itsuka_shidu*: saya mati kelaparan gak ada makanan
+2024-12-19T10:47:24.245Z [info]: Pesan terkirim: *[Chat]*
+*.GustyCube173605*: p
+2024-12-19T10:47:24.426Z [info]: [object Object]
+2024-12-19T10:47:24.427Z [warn]: [object Object]
+2024-12-19T10:47:24.729Z [info]: [object Object]
+2024-12-19T10:47:24.730Z [warn]: [object Object]
+2024-12-19T10:47:24.926Z [info]: Data diterima:
+2024-12-19T10:47:24.927Z [info]: Data setelah di-parse: lag bet bjir
+2024-12-19T10:47:25.449Z [info]: Data diterima:
+2024-12-19T10:47:25.450Z [info]: Data setelah di-parse: p
+2024-12-19T10:47:25.458Z [info]: Pesan terkirim: *[Chat]*
+*.YoBen_Real*: lag bet bjir
+2024-12-19T10:47:25.920Z [info]: [object Object]
+2024-12-19T10:47:25.921Z [warn]: [object Object]
+2024-12-19T10:47:26.084Z [info]: Pesan terkirim: *[Chat]*
+*.GustyCube173605*: p
+2024-12-19T10:47:26.558Z [info]: [object Object]
+2024-12-19T10:47:26.559Z [warn]: [object Object]
+2024-12-19T10:47:26.930Z [info]: Data diterima:
+2024-12-19T10:47:26.931Z [info]: Data setelah di-parse: p
+2024-12-19T10:47:27.584Z [info]: Pesan terkirim: *[Chat]*
+*.GustyCube173605*: p
+2024-12-19T10:47:28.048Z [info]: [object Object]
+2024-12-19T10:47:28.049Z [warn]: [object Object]
+2024-12-19T10:47:33.079Z [info]: Data diterima:
+2024-12-19T10:47:33.079Z [info]: Data setelah di-parse: SPAM TELASO
+2024-12-19T10:47:33.685Z [info]: Pesan terkirim: *[Chat]*
+*.DanzzGod2250*: SPAM TELASO
+2024-12-19T10:47:34.151Z [info]: [object Object]
+2024-12-19T10:47:34.152Z [warn]: [object Object]
+2024-12-19T10:47:38.326Z [info]: Data diterima:
+2024-12-19T10:47:38.327Z [info]: Data setelah di-parse: btw
+2024-12-19T10:47:38.856Z [info]: Pesan terkirim: *[Chat]*
+*.DanzzGod2250*: btw
+2024-12-19T10:47:39.333Z [info]: [object Object]
+2024-12-19T10:47:39.333Z [warn]: [object Object]
+2024-12-19T10:47:41.029Z [info]: Data diterima:
+2024-12-19T10:47:41.030Z [info]: Data setelah di-parse: keep inven?
+2024-12-19T10:47:41.579Z [info]: Pesan terkirim: *[Chat]*
+*.Vanzz012ch*: keep inven?
+2024-12-19T10:47:42.071Z [info]: [object Object]
+2024-12-19T10:47:42.071Z [warn]: [object Object]
+2024-12-19T10:47:43.083Z [info]: Data diterima:
+2024-12-19T10:47:43.084Z [info]: Data setelah di-parse: AKU SAYANG HANS
+2024-12-19T10:47:43.641Z [info]: Pesan terkirim: *[Chat]*
+*.DanzzGod2250*: AKU SAYANG HANS
+2024-12-19T10:47:44.119Z [info]: [object Object]
+2024-12-19T10:47:44.120Z [warn]: [object Object]
+2024-12-19T10:47:45.075Z [info]: Data diterima:
+2024-12-19T10:47:45.076Z [info]: Data setelah di-parse: perasaan lancar jaya dah
+2024-12-19T10:47:45.599Z [info]: Pesan terkirim: *[Chat]*
+*.GustyCube173605*: perasaan lancar jaya dah
+2024-12-19T10:47:46.072Z [info]: [object Object]
+2024-12-19T10:47:46.073Z [warn]: [object Object]
+2024-12-19T10:47:56.577Z [info]: Data diterima:
+2024-12-19T10:47:56.577Z [info]: Data setelah di-parse: gmc lah dulu saya mati nih _-
+2024-12-19T10:47:57.146Z [info]: Pesan terkirim: *[Chat]*
+*.Itsuka_shidu*: gmc lah dulu saya mati nih _-
+2024-12-19T10:47:57.224Z [info]: Data diterima:
+2024-12-19T10:47:57.224Z [info]: Data setelah di-parse: pahri jmk
+2024-12-19T10:47:57.623Z [info]: [object Object]
+2024-12-19T10:47:57.624Z [warn]: [object Object]
+2024-12-19T10:47:58.151Z [info]: Pesan terkirim: *[Chat]*
+*.GustyCube173605*: pahri jmk
+2024-12-19T10:47:58.696Z [info]: [object Object]
+2024-12-19T10:47:58.697Z [warn]: [object Object]
+2024-12-19T10:48:57.232Z [warn]: Koneksi timeout, menutup koneksi.
+2024-12-19T10:51:17.232Z [info]: Client terputus
+2024-12-19T10:52:53.426Z [info]: Update koneksi:
+2024-12-19T10:53:11.865Z [info]: Update koneksi:
+2024-12-19T10:53:11.879Z [info]: Server TCP berjalan di 127.0.0.1:3000
+2024-12-19T10:53:13.156Z [info]: [object Object]
+2024-12-19T10:53:13.656Z [info]: [object Object]
+2024-12-19T10:53:14.533Z [info]: 28 pre-keys found on server
+2024-12-19T10:53:14.942Z [info]: opened connection to WA
+2024-12-19T10:53:14.982Z [info]: Update koneksi:
+2024-12-19T10:53:14.989Z [info]: Update koneksi:
+2024-12-19T10:53:14.993Z [info]: Bot terhubung ke WhatsApp!
+2024-12-19T10:53:15.109Z [info]: handled 3 offline messages/notifications
+2024-12-19T10:53:15.112Z [info]: Update koneksi:
+2024-12-19T10:59:13.294Z [info]: Update koneksi:
+2024-12-19T10:59:13.308Z [info]: Server TCP berjalan di 127.0.0.1:3000
+2024-12-19T10:59:13.911Z [info]: [object Object]
+2024-12-19T10:59:14.188Z [info]: [object Object]
+2024-12-19T10:59:14.699Z [info]: 28 pre-keys found on server
+2024-12-19T10:59:14.991Z [info]: opened connection to WA
+2024-12-19T10:59:15.025Z [info]: Update koneksi:
+2024-12-19T10:59:15.031Z [info]: Update koneksi:
+2024-12-19T10:59:15.033Z [info]: Bot terhubung ke WhatsApp!
+2024-12-19T10:59:15.084Z [info]: handled 9 offline messages/notifications
+2024-12-19T10:59:15.086Z [info]: Update koneksi:
+2024-12-19T10:59:28.883Z [info]: Client terhubung ke server TCP
+2024-12-19T10:59:29.233Z [info]: Data diterima:
+2024-12-19T10:59:29.236Z [error]: Error parsing JSON: Unexpected token '', " "... is not valid JSON
+2024-12-19T10:59:29.238Z [info]: Client terputus
+2024-12-19T10:59:29.255Z [info]: Client terhubung ke server TCP
+2024-12-19T10:59:29.582Z [info]: Data diterima:
+2024-12-19T10:59:29.589Z [error]: Error parsing JSON: Unexpected token '', " �  �"... is not valid JSON
+2024-12-19T10:59:29.595Z [info]: Client terputus
+2024-12-19T10:59:29.630Z [info]: Client terhubung ke server TCP
+2024-12-19T10:59:29.684Z [info]: Client terhubung ke server TCP
+2024-12-19T10:59:29.973Z [info]: Data diterima:
+2024-12-19T10:59:29.987Z [error]: Error parsing JSON: Unexpected token '', " �  �"... is not valid JSON
+2024-12-19T10:59:29.993Z [info]: Client terputus
+2024-12-19T10:59:30.251Z [info]: Client terputus
+2024-12-19T11:06:10.841Z [info]: Update koneksi:
+2024-12-19T11:06:10.855Z [info]: Server TCP berjalan di 127.0.0.1:3000
+2024-12-19T11:06:11.477Z [info]: [object Object]
+2024-12-19T11:06:11.866Z [info]: [object Object]
+2024-12-19T11:06:12.730Z [info]: 27 pre-keys found on server
+2024-12-19T11:06:13.094Z [info]: opened connection to WA
+2024-12-19T11:06:13.109Z [info]: Update koneksi:
+2024-12-19T11:06:13.112Z [info]: Update koneksi:
+2024-12-19T11:06:13.113Z [info]: Bot terhubung ke WhatsApp!
+2024-12-19T11:06:13.240Z [info]: handled 2 offline messages/notifications
+2024-12-19T11:06:13.243Z [info]: Update koneksi:
+2024-12-19T11:06:24.794Z [info]: [object Object]
+2024-12-19T11:24:11.069Z [info]: Update koneksi:
+2024-12-19T11:24:11.089Z [info]: Server TCP berjalan di 127.0.0.1:3000
+2024-12-19T11:24:12.120Z [info]: [object Object]
+2024-12-19T11:24:12.439Z [info]: [object Object]
+2024-12-19T11:24:13.015Z [info]: 26 pre-keys found on server
+2024-12-19T11:24:13.286Z [info]: opened connection to WA
+2024-12-19T11:24:13.309Z [info]: Update koneksi:
+2024-12-19T11:24:13.313Z [info]: Update koneksi:
+2024-12-19T11:24:13.314Z [info]: Bot terhubung ke WhatsApp!
+2024-12-19T11:24:14.663Z [info]: handled 598 offline messages/notifications
+2024-12-19T11:24:14.665Z [info]: Update koneksi:
+2024-12-19T11:24:18.249Z [info]: resyncing critical_unblock_low from v201
+2024-12-19T11:24:18.820Z [info]: synced critical_unblock_low to v205
+2024-12-19T11:24:19.109Z [info]: resyncing critical_unblock_low from v205
+2024-12-19T11:24:19.805Z [info]: resyncing critical_unblock_low from v205
+2024-12-19T11:24:22.579Z [info]: resyncing critical_unblock_low from v205
+2024-12-19T11:30:44.140Z [error]: [object Object]
+2024-12-19T11:30:44.788Z [error]: [object Object]
+2024-12-19T11:30:45.671Z [error]: [object Object]
+2024-12-19T11:30:46.470Z [error]: [object Object]
+2024-12-19T11:30:47.318Z [error]: [object Object]
+2024-12-19T11:30:48.174Z [error]: [object Object]
+2024-12-19T11:30:48.905Z [error]: [object Object]
+2024-12-19T11:30:49.180Z [info]: [object Object]
+2024-12-19T11:30:49.704Z [error]: [object Object]
+2024-12-19T11:30:50.544Z [error]: [object Object]
+2024-12-19T11:30:51.360Z [error]: [object Object]
+2024-12-19T11:30:52.162Z [error]: [object Object]
+2024-12-19T11:30:52.981Z [error]: [object Object]
+2024-12-19T11:30:53.790Z [error]: [object Object]
+2024-12-19T11:30:53.846Z [error]: [object Object]
+2024-12-19T11:30:54.171Z [error]: [object Object]
+2024-12-19T11:30:54.304Z [error]: [object Object]
+2024-12-19T11:30:54.471Z [info]: [object Object]
+2024-12-19T11:30:59.755Z [info]: [object Object]
+2024-12-19T11:31:05.077Z [info]: [object Object]
+2024-12-19T11:31:10.381Z [info]: [object Object]
+2024-12-19T11:31:15.684Z [info]: [object Object]
+2024-12-19T11:31:20.972Z [info]: [object Object]
+2024-12-19T11:31:26.269Z [info]: [object Object]
+2024-12-19T11:31:31.546Z [info]: [object Object]
+2024-12-19T11:31:36.868Z [info]: [object Object]
+2024-12-19T11:31:42.156Z [info]: [object Object]
+2024-12-19T11:31:47.445Z [info]: [object Object]
+2024-12-19T11:31:52.722Z [info]: [object Object]
+2024-12-19T11:31:58.022Z [info]: [object Object]
+2024-12-19T11:32:00.407Z [error]: [object Object]
+2024-12-19T11:32:02.223Z [error]: [object Object]
+2024-12-19T11:32:03.024Z [error]: [object Object]
+2024-12-19T11:32:03.304Z [info]: [object Object]
+2024-12-19T11:32:03.834Z [error]: [object Object]
+2024-12-19T11:32:04.636Z [error]: [object Object]
+2024-12-19T11:32:05.472Z [error]: [object Object]
+2024-12-19T11:32:06.282Z [error]: [object Object]
+2024-12-19T11:32:07.102Z [error]: [object Object]
+2024-12-19T11:32:07.265Z [error]: [object Object]
+2024-12-19T11:32:07.393Z [error]: [object Object]
+2024-12-19T11:32:08.594Z [info]: [object Object]
+2024-12-19T11:32:13.883Z [info]: [object Object]
+2024-12-19T11:32:19.166Z [info]: [object Object]
+2024-12-19T11:32:24.469Z [info]: [object Object]
+2024-12-19T11:32:29.765Z [info]: [object Object]
+2024-12-19T11:32:35.050Z [info]: [object Object]
+2024-12-19T11:32:40.325Z [info]: [object Object]
+2024-12-19T11:32:45.615Z [info]: [object Object]
+2024-12-19T11:32:50.914Z [info]: [object Object]
+2024-12-19T11:32:56.200Z [info]: [object Object]
+2024-12-19T11:33:01.484Z [info]: [object Object]
+2024-12-19T11:33:06.320Z [error]: [object Object]
+2024-12-19T11:33:06.969Z [error]: [object Object]
+2024-12-19T11:33:07.775Z [error]: [object Object]
+2024-12-19T11:33:08.606Z [error]: [object Object]
+2024-12-19T11:33:09.744Z [error]: [object Object]
+2024-12-19T11:33:10.539Z [error]: [object Object]
+2024-12-19T11:33:11.363Z [info]: [object Object]
+2024-12-19T11:33:11.365Z [error]: [object Object]
+2024-12-19T11:33:11.941Z [error]: [object Object]
+2024-12-19T11:33:12.156Z [error]: [object Object]
+2024-12-19T11:33:12.311Z [error]: [object Object]
+2024-12-19T11:33:16.670Z [info]: [object Object]
+2024-12-19T11:33:21.961Z [info]: [object Object]
+2024-12-19T11:33:27.246Z [info]: [object Object]
+2024-12-19T11:33:32.538Z [info]: [object Object]
+2024-12-19T11:33:37.829Z [info]: [object Object]
+2024-12-19T11:33:43.114Z [info]: [object Object]
+2024-12-19T11:33:48.402Z [info]: [object Object]
+2024-12-19T11:33:53.685Z [info]: [object Object]
+2024-12-19T11:33:58.974Z [info]: [object Object]
+2024-12-19T11:42:20.477Z [info]: Client terhubung ke server TCP
+2024-12-19T11:42:23.264Z [info]: Data diterima:
+2024-12-19T11:42:23.306Z [error]: Error parsing JSON: Unexpected token '', "
+ "... is not valid JSON
+2024-12-19T11:42:23.310Z [info]: Client terputus
+2024-12-19T11:42:24.389Z [info]: Client terhubung ke server TCP
+2024-12-19T11:42:24.813Z [info]: Data diterima:
+2024-12-19T11:42:24.815Z [error]: Error parsing JSON: Unexpected token '', "
+ "... is not valid JSON
+2024-12-19T11:42:25.764Z [info]: Client terhubung ke server TCP
+2024-12-19T11:42:26.790Z [info]: Data diterima:
+2024-12-19T11:42:26.791Z [error]: Error parsing JSON: Unexpected token '', "
+ "... is not valid JSON
+2024-12-19T11:42:28.312Z [info]: Client terputus
+2024-12-19T11:42:28.338Z [info]: Client terputus
+2024-12-19T11:42:49.233Z [info]: Client terhubung ke server TCP
+2024-12-19T11:42:49.527Z [info]: Data diterima:
+2024-12-19T11:42:49.528Z [error]: Error parsing JSON: Unexpected token '', " "... is not valid JSON
+2024-12-19T11:42:49.529Z [info]: Client terputus
+2024-12-19T11:42:49.897Z [info]: Client terhubung ke server TCP
+2024-12-19T11:42:50.200Z [info]: Data diterima:
+2024-12-19T11:42:50.204Z [error]: Error parsing JSON: Unexpected token '', " �  �"... is not valid JSON
+2024-12-19T11:42:50.205Z [info]: Client terputus
+2024-12-19T11:42:50.573Z [info]: Client terhubung ke server TCP
+2024-12-19T11:42:50.622Z [info]: Client terhubung ke server TCP
+2024-12-19T11:42:50.941Z [info]: Data diterima:
+2024-12-19T11:42:50.943Z [error]: Error parsing JSON: Unexpected token '', " �  �"... is not valid JSON
+2024-12-19T11:42:50.944Z [info]: Client terputus
+2024-12-19T11:42:51.205Z [info]: Client terputus
+2024-12-19T11:42:59.397Z [error]: [object Object]
+2024-12-19T11:43:00.028Z [error]: [object Object]
+2024-12-19T11:43:00.841Z [error]: [object Object]
+2024-12-19T11:43:01.684Z [error]: [object Object]
+2024-12-19T11:43:02.496Z [error]: [object Object]
+2024-12-19T11:43:03.274Z [error]: [object Object]
+2024-12-19T11:43:04.093Z [error]: [object Object]
+2024-12-19T11:43:04.436Z [info]: [object Object]
+2024-12-19T11:43:04.905Z [error]: [object Object]
+2024-12-19T11:43:06.760Z [error]: [object Object]
+2024-12-19T11:43:06.765Z [error]: [object Object]
+2024-12-19T11:43:07.273Z [error]: [object Object]
+2024-12-19T11:43:07.483Z [error]: [object Object]
+2024-12-19T11:43:07.767Z [error]: [object Object]
+2024-12-19T11:43:09.719Z [info]: [object Object]
+2024-12-19T11:43:15.008Z [info]: [object Object]
+2024-12-19T11:43:20.328Z [info]: [object Object]
+2024-12-19T11:43:25.651Z [info]: [object Object]
+2024-12-19T11:43:30.937Z [info]: [object Object]
+2024-12-19T11:43:36.220Z [info]: [object Object]
+2024-12-19T11:43:41.495Z [info]: [object Object]
+2024-12-19T11:43:46.776Z [info]: [object Object]
+2024-12-19T11:43:48.448Z [error]: [object Object]
+2024-12-19T11:43:49.083Z [error]: [object Object]
+2024-12-19T11:43:49.892Z [error]: [object Object]
+2024-12-19T11:43:50.709Z [error]: [object Object]
+2024-12-19T11:43:51.560Z [error]: [object Object]
+2024-12-19T11:43:52.081Z [info]: [object Object]
+2024-12-19T11:43:52.335Z [error]: [object Object]
+2024-12-19T11:43:53.157Z [error]: [object Object]
+2024-12-19T11:43:53.959Z [error]: [object Object]
+2024-12-19T11:43:54.029Z [error]: [object Object]
+2024-12-19T11:43:54.285Z [error]: [object Object]
+2024-12-19T11:43:54.485Z [error]: [object Object]
+2024-12-19T11:43:57.367Z [info]: [object Object]
+2024-12-19T11:44:02.656Z [info]: [object Object]
+2024-12-19T11:44:07.940Z [info]: [object Object]
+2024-12-19T11:44:13.265Z [info]: [object Object]
+2024-12-19T11:44:18.551Z [info]: [object Object]
+2024-12-19T11:44:23.839Z [info]: [object Object]
+2024-12-19T11:44:29.123Z [info]: [object Object]
+2024-12-19T11:44:34.408Z [info]: [object Object]
+2024-12-19T11:44:39.345Z [error]: [object Object]
+2024-12-19T11:44:39.692Z [info]: [object Object]
+2024-12-19T11:44:39.946Z [error]: [object Object]
+2024-12-19T11:44:40.778Z [error]: [object Object]
+2024-12-19T11:44:41.577Z [error]: [object Object]
+2024-12-19T11:44:42.394Z [error]: [object Object]
+2024-12-19T11:44:43.196Z [error]: [object Object]
+2024-12-19T11:44:44.002Z [error]: [object Object]
+2024-12-19T11:44:44.823Z [error]: [object Object]
+2024-12-19T11:44:44.976Z [info]: [object Object]
+2024-12-19T11:44:45.657Z [error]: [object Object]
+2024-12-19T11:44:46.468Z [error]: [object Object]
+2024-12-19T11:44:47.259Z [error]: [object Object]
+2024-12-19T11:44:47.503Z [error]: [object Object]
+2024-12-19T11:44:47.992Z [error]: [object Object]
+2024-12-19T11:44:48.166Z [error]: [object Object]
+2024-12-19T11:44:50.268Z [info]: [object Object]
+2024-12-19T11:44:55.552Z [info]: [object Object]
+2024-12-19T11:45:00.881Z [info]: [object Object]
+2024-12-19T11:45:00.988Z [error]: [object Object]
+2024-12-19T11:45:01.658Z [error]: [object Object]
+2024-12-19T11:45:02.480Z [error]: [object Object]
+2024-12-19T11:45:03.299Z [error]: [object Object]
+2024-12-19T11:45:04.883Z [error]: [object Object]
+2024-12-19T11:45:05.697Z [error]: [object Object]
+2024-12-19T11:45:06.197Z [info]: [object Object]
+2024-12-19T11:45:07.345Z [error]: [object Object]
+2024-12-19T11:45:08.164Z [error]: [object Object]
+2024-12-19T11:45:08.977Z [error]: [object Object]
+2024-12-19T11:45:09.513Z [error]: [object Object]
+2024-12-19T11:45:09.672Z [error]: [object Object]
+2024-12-19T11:45:09.812Z [error]: [object Object]
+2024-12-19T11:45:11.517Z [info]: [object Object]
+2024-12-19T11:45:16.816Z [info]: [object Object]
+2024-12-19T11:45:22.108Z [info]: [object Object]
+2024-12-19T11:45:27.391Z [info]: [object Object]
+2024-12-19T11:45:32.669Z [info]: [object Object]
+2024-12-19T11:45:37.959Z [info]: [object Object]
+2024-12-19T11:45:43.242Z [info]: [object Object]
+2024-12-19T11:45:48.515Z [info]: [object Object]
+2024-12-19T11:45:53.796Z [info]: [object Object]
+2024-12-19T11:45:59.072Z [info]: [object Object]
+2024-12-19T11:46:04.358Z [info]: [object Object]
+2024-12-19T11:46:09.644Z [info]: [object Object]
+2024-12-19T11:46:14.930Z [info]: [object Object]
+2024-12-19T11:46:20.214Z [info]: [object Object]
+2024-12-19T11:46:25.495Z [info]: [object Object]
+2024-12-19T11:46:30.798Z [info]: [object Object]
+2024-12-19T11:46:36.086Z [info]: [object Object]
+2024-12-19T11:46:41.374Z [info]: [object Object]
+2024-12-19T11:46:46.674Z [info]: [object Object]
+2024-12-19T11:46:51.965Z [info]: [object Object]
+2024-12-19T11:46:57.264Z [info]: [object Object]
+2024-12-19T11:47:02.550Z [info]: [object Object]
+2024-12-19T11:47:07.840Z [info]: [object Object]
+2024-12-19T11:47:13.139Z [info]: [object Object]
+2024-12-19T11:47:18.441Z [info]: [object Object]
+2024-12-19T11:47:19.328Z [info]: [object Object]
+2024-12-19T11:47:19.331Z [info]: Update koneksi:
+2024-12-19T11:47:19.333Z [info]: Koneksi terputus. Reconnect:
+2024-12-19T11:47:19.385Z [info]: Update koneksi:
+2024-12-19T12:03:58.954Z [info]: Update koneksi:
+2024-12-19T12:03:58.981Z [info]: Server TCP berjalan di 127.0.0.1:3000
+2024-12-19T12:03:59.631Z [info]: [object Object]
+2024-12-19T12:04:00.077Z [info]: [object Object]
+2024-12-19T12:04:01.115Z [info]: 24 pre-keys found on server
+2024-12-19T12:04:01.594Z [info]: opened connection to WA
+2024-12-19T12:04:01.616Z [info]: Update koneksi:
+2024-12-19T12:04:01.621Z [info]: Update koneksi:
+2024-12-19T12:04:01.622Z [info]: Bot terhubung ke WhatsApp!
+2024-12-19T12:04:03.588Z [info]: handled 207 offline messages/notifications
+2024-12-19T12:04:03.592Z [info]: Update koneksi:
+2024-12-19T12:04:03.637Z [error]: [object Object]
+2024-12-19T12:04:08.667Z [info]: [object Object]
+2024-12-19T12:04:10.000Z [info]: Client terhubung ke server TCP
+2024-12-19T12:04:34.000Z [info]: Data diterima:
+2024-12-19T12:04:34.012Z [info]: Data setelah di-parse: tai
+2024-12-19T12:04:35.560Z [info]: Pesan terkirim: *[Chat]*
+*.RayllX1*: tai
+2024-12-19T12:04:36.162Z [info]: [object Object]
+2024-12-19T12:04:36.165Z [warn]: [object Object]
+2024-12-19T12:04:38.913Z [info]: Data diterima:
+2024-12-19T12:04:38.915Z [info]: Data setelah di-parse: knp
+2024-12-19T12:04:39.042Z [info]: Data diterima:
+2024-12-19T12:04:39.044Z [info]: Data setelah di-parse: Keluar dari server
+2024-12-19T12:04:40.323Z [info]: Pesan terkirim: *[Chat]*
+*.Vanzz012ch*: knp
+2024-12-19T12:04:40.378Z [info]: Pesan terkirim: *[Leave]*
+*.RayllX1* telah keluar dari server.
+2024-12-19T12:04:40.906Z [info]: [object Object]
+2024-12-19T12:04:40.907Z [warn]: [object Object]
+2024-12-19T12:04:41.167Z [info]: [object Object]
+2024-12-19T12:04:41.168Z [warn]: [object Object]
+2024-12-19T12:05:08.007Z [info]: Data diterima:
+2024-12-19T12:05:08.009Z [info]: Data setelah di-parse: Bergabung ke server
+2024-12-19T12:05:08.690Z [info]: Pesan terkirim: *[Join]*
+*.RayllX1* telah bergabung ke server!
+2024-12-19T12:05:09.226Z [info]: [object Object]
+2024-12-19T12:05:09.232Z [warn]: [object Object]
+2024-12-19T12:05:53.898Z [info]: Data diterima:
+2024-12-19T12:05:53.900Z [info]: Data setelah di-parse: lag lag
+2024-12-19T12:05:54.575Z [info]: Pesan terkirim: *[Chat]*
+*.RayllX1*: lag lag
+2024-12-19T12:05:55.167Z [info]: [object Object]
+2024-12-19T12:05:55.168Z [warn]: [object Object]
+2024-12-19T12:05:56.598Z [info]: Data diterima:
+2024-12-19T12:05:56.599Z [info]: Data setelah di-parse: Keluar dari server
+2024-12-19T12:05:57.263Z [info]: Pesan terkirim: *[Leave]*
+*.RayllX1* telah keluar dari server.
+2024-12-19T12:05:57.883Z [info]: [object Object]
+2024-12-19T12:05:57.884Z [warn]: [object Object]
+2024-12-19T12:06:56.601Z [warn]: Koneksi timeout, menutup koneksi.
+2024-12-19T12:08:19.461Z [info]: Client terhubung ke server TCP
+2024-12-19T12:08:34.948Z [info]: Data diterima:
+2024-12-19T12:08:34.949Z [info]: Data setelah di-parse: vanz mna lu
+2024-12-19T12:08:35.631Z [info]: Pesan terkirim: *[Chat]*
+*.RayllX1*: vanz mna lu
+2024-12-19T12:08:36.237Z [info]: [object Object]
+2024-12-19T12:08:36.238Z [warn]: [object Object]
+2024-12-19T12:08:55.697Z [info]: Data diterima:
+2024-12-19T12:08:55.698Z [info]: Data setelah di-parse: sabar
+2024-12-19T12:08:56.575Z [info]: Pesan terkirim: *[Chat]*
+*.Vanzz012ch*: sabar
+2024-12-19T12:08:56.581Z [info]: resyncing regular_high from v13
+2024-12-19T12:08:57.161Z [info]: [object Object]
+2024-12-19T12:08:57.163Z [warn]: [object Object]
+2024-12-19T12:08:57.455Z [info]: synced regular_high to v14
+2024-12-19T12:09:16.601Z [info]: Client terputus
+2024-12-19T12:09:55.697Z [warn]: Koneksi timeout, menutup koneksi.
+2024-12-19T12:10:02.949Z [info]: Data diterima:
+2024-12-19T12:10:02.951Z [info]: Data setelah di-parse: sabar ngebug gw
+2024-12-19T12:10:04.585Z [info]: Pesan terkirim: *[Chat]*
+*.Vanzz012ch*: sabar ngebug gw
+2024-12-19T12:10:05.172Z [info]: [object Object]
+2024-12-19T12:10:05.173Z [warn]: [object Object]
+2024-12-19T12:10:08.196Z [info]: Data diterima:
+2024-12-19T12:10:08.197Z [info]: Data setelah di-parse: Keluar dari server
+2024-12-19T12:10:08.794Z [info]: Pesan terkirim: *[Leave]*
+*.Vanzz012ch* telah keluar dari server.
+2024-12-19T12:10:09.379Z [info]: [object Object]
+2024-12-19T12:10:09.380Z [warn]: [object Object]
+2024-12-19T12:11:08.196Z [warn]: Koneksi timeout, menutup koneksi.
+2024-12-19T12:12:39.967Z [error]: [object Object]
+2024-12-19T12:12:40.576Z [error]: [object Object]
+2024-12-19T12:12:41.390Z [error]: [object Object]
+2024-12-19T12:12:42.201Z [error]: [object Object]
+2024-12-19T12:12:43.018Z [error]: [object Object]
+2024-12-19T12:12:43.842Z [error]: [object Object]
+2024-12-19T12:12:44.649Z [error]: [object Object]
+2024-12-19T12:12:45.020Z [info]: [object Object]
+2024-12-19T12:12:45.481Z [error]: [object Object]
+2024-12-19T12:12:46.275Z [error]: [object Object]
+2024-12-19T12:12:47.116Z [error]: [object Object]
+2024-12-19T12:12:47.926Z [error]: [object Object]
+2024-12-19T12:12:48.770Z [error]: [object Object]
+2024-12-19T12:12:50.212Z [error]: [object Object]
+2024-12-19T12:12:50.300Z [info]: [object Object]
+2024-12-19T12:12:50.315Z [error]: [object Object]
+2024-12-19T12:12:50.392Z [error]: [object Object]
+2024-12-19T12:12:50.575Z [error]: [object Object]
+2024-12-19T12:12:55.597Z [info]: [object Object]
+2024-12-19T12:13:00.893Z [info]: [object Object]
+2024-12-19T12:13:06.186Z [info]: [object Object]
+2024-12-19T12:13:11.469Z [info]: [object Object]
+2024-12-19T12:13:16.750Z [info]: [object Object]
+2024-12-19T12:13:22.063Z [info]: [object Object]
+2024-12-19T12:13:27.347Z [info]: [object Object]
+2024-12-19T12:13:28.223Z [info]: Client terputus
+2024-12-19T12:13:32.638Z [info]: [object Object]
+2024-12-19T12:13:37.934Z [info]: [object Object]
+2024-12-19T12:13:43.270Z [info]: [object Object]
+2024-12-19T12:13:48.559Z [info]: [object Object]
+2024-12-19T12:13:53.850Z [info]: [object Object]
+2024-12-19T12:13:59.138Z [info]: [object Object]
+2024-12-19T12:14:04.441Z [info]: [object Object]
+2024-12-19T12:16:35.366Z [error]: [object Object]
+2024-12-19T12:16:40.394Z [info]: [object Object]
+2024-12-19T12:19:06.455Z [info]: Client terhubung ke server TCP
+2024-12-19T12:19:12.795Z [info]: Data diterima:
+2024-12-19T12:19:12.796Z [info]: Data setelah di-parse: jauh bett
+2024-12-19T12:19:14.241Z [info]: Pesan terkirim: *[Chat]*
+*.Vanzz012ch*: jauh bett
+2024-12-19T12:19:14.823Z [info]: [object Object]
+2024-12-19T12:19:14.824Z [warn]: [object Object]
+2024-12-19T12:19:24.350Z [info]: Data diterima:
+2024-12-19T12:19:24.352Z [info]: Data setelah di-parse: perasaan lu d blakang gw
+2024-12-19T12:19:25.007Z [info]: Pesan terkirim: *[Chat]*
+*.RayllX1*: perasaan lu d blakang gw
+2024-12-19T12:19:25.577Z [info]: [object Object]
+2024-12-19T12:19:25.577Z [warn]: [object Object]
+2024-12-19T12:19:32.913Z [info]: Data diterima:
+2024-12-19T12:19:32.914Z [info]: Data setelah di-parse: Keluar dari server
+2024-12-19T12:19:33.786Z [info]: Pesan terkirim: *[Leave]*
+*.YoBen_Real* telah keluar dari server.
+2024-12-19T12:19:34.350Z [info]: [object Object]
+2024-12-19T12:19:34.351Z [warn]: [object Object]
+2024-12-19T12:20:32.916Z [warn]: Koneksi timeout, menutup koneksi.
+2024-12-19T12:22:10.411Z [info]: Client terhubung ke server TCP
+2024-12-19T12:22:23.296Z [info]: Data diterima:
+2024-12-19T12:22:23.297Z [info]: Data setelah di-parse: yok
+2024-12-19T12:22:23.973Z [info]: Pesan terkirim: *[Chat]*
+*.Vanzz012ch*: yok
+2024-12-19T12:22:24.538Z [info]: [object Object]
+2024-12-19T12:22:24.539Z [warn]: [object Object]
+2024-12-19T12:22:52.914Z [info]: Client terputus
+2024-12-19T12:23:23.303Z [warn]: Koneksi timeout, menutup koneksi.
+2024-12-19T12:23:30.960Z [info]: Client terputus
+2024-12-19T12:23:31.121Z [info]: Client terhubung ke server TCP
+2024-12-19T12:24:31.123Z [warn]: Koneksi timeout, menutup koneksi.
+2024-12-19T12:24:41.173Z [info]: Client terputus
+2024-12-19T12:24:41.365Z [info]: Client terhubung ke server TCP
+2024-12-19T12:25:07.994Z [info]: Data diterima:
+2024-12-19T12:25:07.995Z [info]: Data setelah di-parse: Keluar dari server
+2024-12-19T12:25:09.430Z [info]: Pesan terkirim: *[Leave]*
+*.Dilaaa4010* telah keluar dari server.
+2024-12-19T12:25:10.019Z [info]: [object Object]
+2024-12-19T12:25:10.019Z [warn]: [object Object]
+2024-12-19T12:25:19.141Z [info]: [object Object]
+2024-12-19T12:25:19.143Z [info]: Update koneksi:
+2024-12-19T12:25:19.153Z [info]: Koneksi terputus. Reconnect:
+2024-12-19T12:25:19.155Z [info]: Client terputus
+2024-12-19T12:25:19.409Z [info]: Update koneksi:
+2024-12-19T12:25:34.194Z [info]: Update koneksi:
+2024-12-19T12:25:34.207Z [info]: Server TCP berjalan di 127.0.0.1:3000
+2024-12-19T12:25:34.628Z [info]: [object Object]
+2024-12-19T12:25:34.941Z [info]: [object Object]
+2024-12-19T12:25:35.513Z [info]: 20 pre-keys found on server
+2024-12-19T12:25:35.788Z [info]: opened connection to WA
+2024-12-19T12:25:35.819Z [info]: Update koneksi:
+2024-12-19T12:25:35.822Z [info]: Update koneksi:
+2024-12-19T12:25:35.823Z [info]: Bot terhubung ke WhatsApp!
+2024-12-19T12:25:35.900Z [info]: handled 5 offline messages/notifications
+2024-12-19T12:25:35.903Z [info]: Update koneksi:
+2024-12-19T12:25:43.414Z [info]: Client terhubung ke server TCP
+2024-12-19T12:25:49.058Z [info]: Data diterima:
+2024-12-19T12:25:49.059Z [info]: Data setelah di-parse: mn lu
+2024-12-19T12:25:49.889Z [info]: Pesan terkirim: *[Chat]*
+*.Vanzz012ch*: mn lu
+2024-12-19T12:25:50.192Z [info]: [object Object]
+2024-12-19T12:25:50.193Z [warn]: [object Object]
+2024-12-19T12:26:01.895Z [info]: Data diterima:
+2024-12-19T12:26:01.897Z [info]: Data setelah di-parse: bntar
+2024-12-19T12:26:02.325Z [info]: Pesan terkirim: *[Chat]*
+*.RayllX1*: bntar
+2024-12-19T12:26:02.626Z [info]: [object Object]
+2024-12-19T12:26:02.628Z [warn]: [object Object]
+2024-12-19T12:26:08.745Z [info]: Data diterima:
+2024-12-19T12:26:08.746Z [info]: Data setelah di-parse: 1616 200
+2024-12-19T12:26:09.185Z [info]: Pesan terkirim: *[Chat]*
+*.DontolNihBoss*: 1616 200
+2024-12-19T12:26:09.489Z [info]: [object Object]
+2024-12-19T12:26:09.490Z [warn]: [object Object]
+2024-12-19T12:26:35.770Z [info]: Data diterima:
+2024-12-19T12:26:35.772Z [info]: Data setelah di-parse: bagi makanan :)
+2024-12-19T12:26:36.234Z [info]: Pesan terkirim: *[Chat]*
+*.DontolNihBoss*: bagi makanan :)
+2024-12-19T12:26:36.541Z [info]: [object Object]
+2024-12-19T12:26:36.542Z [warn]: [object Object]
+2024-12-19T12:27:04.251Z [error]: [object Object]
+2024-12-19T12:27:06.303Z [info]: Data diterima:
+2024-12-19T12:27:06.303Z [info]: Data setelah di-parse: Bergabung ke server
+2024-12-19T12:27:06.722Z [info]: Pesan terkirim: *[Join]*
+*.DanzzGod2250* telah bergabung ke server!
+2024-12-19T12:27:07.049Z [info]: [object Object]
+2024-12-19T12:27:07.050Z [warn]: [object Object]
+2024-12-19T12:27:09.321Z [info]: [object Object]
+2024-12-19T12:27:24.919Z [info]: Data diterima:
+2024-12-19T12:27:24.920Z [info]: Data setelah di-parse: Bergabung ke server
+2024-12-19T12:27:25.424Z [info]: Pesan terkirim: *[Join]*
+*.KingzRasya* telah bergabung ke server!
+2024-12-19T12:27:25.753Z [info]: [object Object]
+2024-12-19T12:27:25.753Z [warn]: [object Object]
+2024-12-19T12:27:29.702Z [info]: Data diterima:
+2024-12-19T12:27:29.703Z [info]: Data setelah di-parse: ayok jalan
+2024-12-19T12:27:30.125Z [info]: Pesan terkirim: *[Chat]*
+*.Vanzz012ch*: ayok jalan
+2024-12-19T12:27:30.436Z [info]: [object Object]
+2024-12-19T12:27:30.436Z [warn]: [object Object]
+2024-12-19T12:27:48.395Z [info]: Data diterima:
+2024-12-19T12:27:48.396Z [info]: Data setelah di-parse: p
+2024-12-19T12:27:48.786Z [info]: Pesan terkirim: *[Chat]*
+*.KingzRasya*: p
+2024-12-19T12:27:49.097Z [info]: [object Object]
+2024-12-19T12:27:49.098Z [warn]: [object Object]
+2024-12-19T12:27:50.008Z [info]: Data diterima:
+2024-12-19T12:27:50.009Z [info]: Data setelah di-parse: alamak
+2024-12-19T12:27:50.412Z [info]: Pesan terkirim: *[Chat]*
+*.DontolNihBoss*: alamak
+2024-12-19T12:27:50.728Z [info]: [object Object]
+2024-12-19T12:27:50.729Z [warn]: [object Object]
+2024-12-19T12:28:24.845Z [info]: Data diterima:
+2024-12-19T12:28:24.846Z [info]: Data setelah di-parse: paan?
+2024-12-19T12:28:25.247Z [info]: Pesan terkirim: *[Chat]*
+*.DontolNihBoss*: paan?
+2024-12-19T12:28:25.556Z [info]: [object Object]
+2024-12-19T12:28:25.557Z [warn]: [object Object]
+2024-12-19T12:28:32.392Z [info]: Data diterima:
+2024-12-19T12:28:32.393Z [info]: Data setelah di-parse: tengok dalam
+2024-12-19T12:28:32.790Z [info]: Pesan terkirim: *[Chat]*
+*.DanzzGod2250*: tengok dalam
+2024-12-19T12:28:33.087Z [info]: [object Object]
+2024-12-19T12:28:33.088Z [warn]: [object Object]
+2024-12-19T12:28:45.444Z [info]: Data diterima:
+2024-12-19T12:28:45.445Z [info]: Data setelah di-parse: sering ketemu gua :v
+2024-12-19T12:28:45.819Z [info]: Pesan terkirim: *[Chat]*
+*.DontolNihBoss*: sering ketemu gua :v
+2024-12-19T12:28:46.143Z [info]: [object Object]
+2024-12-19T12:28:46.144Z [warn]: [object Object]
+2024-12-19T12:28:48.895Z [info]: Data diterima:
+2024-12-19T12:28:48.895Z [info]: Data setelah di-parse: halah
+2024-12-19T12:28:49.256Z [info]: Pesan terkirim: *[Chat]*
+*.DanzzGod2250*: halah
+2024-12-19T12:28:49.570Z [info]: [object Object]
+2024-12-19T12:28:49.570Z [warn]: [object Object]
+2024-12-19T12:28:57.406Z [info]: Data diterima:
+2024-12-19T12:28:57.411Z [info]: Data setelah di-parse: cailah ga percaya
+2024-12-19T12:28:57.844Z [info]: Pesan terkirim: *[Chat]*
+*.DontolNihBoss*: cailah ga percaya
+2024-12-19T12:28:58.172Z [info]: [object Object]
+2024-12-19T12:28:58.173Z [warn]: [object Object]
+2024-12-19T12:29:09.195Z [info]: Data diterima:
+2024-12-19T12:29:09.197Z [info]: Data setelah di-parse: set home sini dlu
+2024-12-19T12:29:09.608Z [info]: Pesan terkirim: *[Chat]*
+*.Vanzz012ch*: set home sini dlu
+2024-12-19T12:29:09.915Z [info]: [object Object]
+2024-12-19T12:29:09.916Z [warn]: [object Object]
+2024-12-19T12:29:11.448Z [info]: Data diterima:
+2024-12-19T12:29:11.453Z [info]: Data setelah di-parse: makasih loh atmin ganteng
+2024-12-19T12:29:11.898Z [info]: Pesan terkirim: *[Chat]*
+*.DontolNihBoss*: makasih loh atmin ganteng
+2024-12-19T12:29:12.214Z [info]: [object Object]
+2024-12-19T12:29:12.215Z [warn]: [object Object]
+2024-12-19T12:29:20.294Z [info]: Data diterima:
+2024-12-19T12:29:20.295Z [info]: Data setelah di-parse: bg kok gw survival
+2024-12-19T12:29:20.701Z [info]: Pesan terkirim: *[Chat]*
+*.KingzRasya*: bg kok gw survival
+2024-12-19T12:29:21.020Z [info]: [object Object]
+2024-12-19T12:29:21.021Z [warn]: [object Object]
+2024-12-19T12:29:24.225Z [info]: Data diterima:
+2024-12-19T12:29:24.228Z [info]: Data setelah di-parse: udh
+2024-12-19T12:29:24.636Z [info]: Pesan terkirim: *[Chat]*
+*.RayllX1*: udh
+2024-12-19T12:29:24.949Z [info]: [object Object]
+2024-12-19T12:29:24.950Z [warn]: [object Object]
